@@ -1,5 +1,5 @@
 [//]: # (https://stackoverflow.com/questions/4823468/comments-in-markdown)
 [//]: # remote_theme: pages-themes/slate@v0.2.0
 [//]: # remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/slate@v0.2.0
-title: [ПАТОФИЗИОЛОГИЯ <br/> К А Р Д И О]
+remote_theme: pages-themes/cayman@v0.2.0
+title: [патофизиология <br/> КАРДИО]

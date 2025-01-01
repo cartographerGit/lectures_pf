@@ -1,4 +1,3 @@
 # Пато
-<pre></pre>
-<pre></pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # Оглавление

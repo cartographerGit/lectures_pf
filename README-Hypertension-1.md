@@ -7,7 +7,7 @@
  <br/> 
  <br/> 
  
- ## {% highlight ruby %}Здесь мы научимся:{% endhighlight %} 
+ {% highlight ruby %}Здесь мы научимся:{% endhighlight %} 
  <br/> 
  <br/> 
  

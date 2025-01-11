@@ -1,5 +1,10 @@
-<span style="font-family: 'consolas'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
-<span style="font-family: 'consolas'; font-size: 1em; color: red;">(необязательный)</span>
+<span style="font-family: 'courier'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'cursive'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'franklin gothic medium'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'helvetica'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'impact'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'lucida sans unicode'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'trebuchet ms'; font-size: 1em; color: red;">(необязательный)</span>
  
 # Minimum minimorum из физики 
  <br/>

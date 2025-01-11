@@ -1,5 +1,6 @@
-# РАЗДЕЛ I (необязятельный)
-
+<span style="font-family: 'COMIC SANS MS'; font-size: 5em; color: red;">РАЗДЕЛ I</span>
+<h3><span style="font-family: 'COMIC SANS MS'; font-size: 5em; color: red;">РАЗДЕЛ I</span></h1>
+ 
 # Minimum minimorum из физики 
  <br/>
  

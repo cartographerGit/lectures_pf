@@ -11,8 +11,5 @@
  <br/> 
  <br/> 
  
-<mark {
-  background-color: yellow;
-  color: black;
-}>Marked text</mark>
+[dddd](color: red)
  

@@ -6,7 +6,7 @@
 
 
 <fieldset>
-  <legend><span style="font-family: 'Tahoma'; font-size: 2.1em; color: red;">Здесь мы узнаем : </span></legend>
+  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: blue;">Здесь мы узнаем : </span></legend>
 
   <div>
     <input type="checkbox" id="sc" name="sc"/>

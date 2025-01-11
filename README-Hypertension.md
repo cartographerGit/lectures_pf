@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-[## I. Minimum minimorum из физики (необязательно)](README-Hypertension-1.md)
+## [I. Minimum minimorum из физики (необязательно)](README-Hypertension-1.md)
 <br/>
 
 ## II. Регуляция артериального давления

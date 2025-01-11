@@ -1,8 +1,11 @@
-<span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: red;">РАЗДЕЛ I</span> <br/> 
+<span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #eddfdd;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: red;">(необязательный)</span>
  
+<span style="font-family: 'Tahoma'; font-size: 2.1em; color: red;">Minimum minimorum из физики </span> <br/>
 
-<span style="font-family: 'Tahoma'; font-size: 2.5em; color: red;">Minimum minimorum из физики </span> <br/>
+
+<span style="font-family: 'trebuchet ms'; font-size: 1.7em; color: red;">Здесь мы узнаем:</span>
+
 
 
 

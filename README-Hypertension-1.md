@@ -11,5 +11,5 @@
  <br/> 
  <br/> 
  
-<mark style="background: #00ced1!important">Marked text</mark>
+<mark style="background: #CE00D1!important">Marked text</mark>
  

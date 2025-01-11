@@ -11,5 +11,5 @@
  <br/> 
  <br/> 
  
-<p>this is a pretty paragraph with some <span style="background: blue">marked text</span></p>
+<mark style="background: #00ced1!important">Marked text</mark>
  

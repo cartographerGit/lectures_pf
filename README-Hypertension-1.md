@@ -11,16 +11,16 @@
 - [ ] fff</span>
 
 <fieldset>
-  <legend>Choose your monster's features:</legend>
+  <legend>Choose :</legend>
 
   <div>
-    <input type="checkbox" id="scales" name="scales"/>
-    <label for="scales">Scales</label>
+    <input type="checkbox" id="sc" name="sc"/>
+    <label for="sc">Sc</label>
   </div>
 
   <div>
-    <input type="checkbox" id="horns" name="horns" />
-    <label for="horns">Horns</label>
+    <input type="checkbox" id="fff" name="fff" />
+    <label for="fff">fff</label>
   </div>
 </fieldset>
 

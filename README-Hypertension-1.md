@@ -20,3 +20,5 @@
 📘
 
  <style>p { color: blue; }</style>
+
+ <span style="font-family: 'Lucida Console';">foo</span>

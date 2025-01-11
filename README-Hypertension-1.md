@@ -1,5 +1,5 @@
-<span style="font-family: 'century gothic'; font-size: 5hv; color: red;">РАЗДЕЛ I</span>
-<h3><span style="font-family: 'century gothic'; font-size: 2hv; color: red;">(необязательный)</span></h1>
+<span style="font-family: 'corbel'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'corbel'; font-size: 1em; color: red;">(необязательный)</span>
  
 # Minimum minimorum из физики 
  <br/>

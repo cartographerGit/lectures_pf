@@ -1,4 +1,4 @@
-# Раздел I
- <br/>  <br/> 
+# Раздел I (необязятельный)
+ <br/> 
  
-# Minimum minimorum из физики (необязательно)
+# Minimum minimorum из физики 

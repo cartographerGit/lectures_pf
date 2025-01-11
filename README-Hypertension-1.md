@@ -1,4 +1,4 @@
-<span style="font-family: 'corbel'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'nevis'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
 <span style="font-family: 'corbel'; font-size: 1em; color: red;">(необязательный)</span>
  
 # Minimum minimorum из физики 

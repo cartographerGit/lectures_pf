@@ -13,6 +13,5 @@
  
 <p>
 Quack quack
-<text color=red>ERROR</text>
+<text style="color: red">ERROR</text>
 </p>
- 

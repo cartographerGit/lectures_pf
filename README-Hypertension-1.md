@@ -1,4 +1,4 @@
-<span style="font-family: 'trebuchet ms'; font-size: 2em; color: red;">РАЗДЕЛ I</span> <br/> 
+<span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: red;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: red;">(необязательный)</span>
  
 # Minimum minimorum из физики 

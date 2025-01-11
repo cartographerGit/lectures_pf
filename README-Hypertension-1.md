@@ -1,5 +1,5 @@
-<span style="font-family: 'cursive'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
-<span style="font-family: 'cursive'; font-size: 1em; color: red;">(необязательный)</span>
+<span style="font-family: 'candara'; font-size: 2em; color: red;">РАЗДЕЛ I</span>
+<span style="font-family: 'candara'; font-size: 1em; color: red;">(необязательный)</span>
  
 # Minimum minimorum из физики 
  <br/>

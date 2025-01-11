@@ -1,12 +1,11 @@
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: #F08080;">(необязательный)</span>
- 
-<span style="font-family: 'Tahoma'; font-size: 2.1em; color: red;">Minimum minimorum из физики </span> <br/>
+<span style="font-family: 'Tahoma'; font-size: 2.1em; color: #CD5C5C;">Minimum minimorum из физики </span> <br/>
 <br/>
 
 
 <fieldset>
-  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: #a6acaf;">здесь мы узнаем:  </span></legend>
+  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: #909497;">здесь мы узнаем:  </span></legend>
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>

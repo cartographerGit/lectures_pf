@@ -5,12 +5,10 @@
 
 
 <span style="font-family: 'trebuchet ms'; font-size: 1.7em; color: red;">Здесь мы узнаем:</span>
-<span style="font-family: 'trebuchet ms'; font-size: 1.7em; color: red;">
-- [x] Write the press release
+<span style="font-family: 'trebuchet ms'; font-size: 1.7em; color: red;">- [x] Write the press release
 - [ ] ff
 - [ ] ff
-- [ ] fff
-</span>
+- [ ] fff</span>
 
 
 

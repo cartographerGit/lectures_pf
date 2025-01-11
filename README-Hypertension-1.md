@@ -6,14 +6,29 @@
 
 
 <fieldset>
-  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: blue;">здесь мы узнаем : </span></legend>
+  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: blue;">здесь мы узнаем:  </span></legend>
 
   <div>
-    <input type="checkbox" id="sc" name="sc"/>
-    <label for="sc">Sc</label>
+    <input type="checkbox" id="f1" name="f1"/>
+    <label for="f1">что такое давление</label>
   </div>
 
   <div>
+    <input type="checkbox" id="fff" name="fff" />
+    <label for="fff">fff</label>
+  </div>
+
+    <div>
+    <input type="checkbox" id="fff" name="fff" />
+    <label for="fff">fff</label>
+  </div>
+
+    <div>
+    <input type="checkbox" id="fff" name="fff" />
+    <label for="fff">fff</label>
+  </div>
+
+    <div>
     <input type="checkbox" id="fff" name="fff" />
     <label for="fff">fff</label>
   </div>

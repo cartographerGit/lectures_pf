@@ -1,9 +1,8 @@
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: red;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: red;">(необязательный)</span>
  
-<span style="font-family: 'tGaramond'; font-size: 2em; color: red;">Minimum minimorum из физики </span> <br/>
-Minimum minimorum из физики  <br/>
- 
+<span style="font-family: 'Garamond'; font-size: 2em; color: red;">Minimum minimorum из физики </span> <br/>
+
 ## Здесь мы узнаем: <br/> что такое давление, из каких компонентов оно складывается, понятие о непрерывности потока (жидкости), принцип Бернулли, закон Хагена-Пуазёйля, понятие о ламинарном и турбулентном потоках, число Рейнольдса и др.
  <br/> 
  <br/> 

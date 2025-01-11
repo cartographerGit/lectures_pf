@@ -14,7 +14,7 @@
   <legend>Choose your monster's features:</legend>
 
   <div>
-    <input type="checkbox" id="scales" name="scales" checked />
+    <input type="checkbox" id="scales" name="scales"/>
     <label for="scales">Scales</label>
   </div>
 

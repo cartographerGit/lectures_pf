@@ -21,4 +21,4 @@
 
  <style>p { color: blue; }</style>
 
- <span style="font-family: 'COMIC SANS MS'; font-size: 20px; color: red;">foo</span>
+ <span style="font-family: 'COMIC SANS MS'; font-size: 70px; color: red;">foo</span>

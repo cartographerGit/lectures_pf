@@ -14,23 +14,33 @@
   </div>
 
   <div>
-    <input type="checkbox" id="fff" name="fff" />
-    <label for="fff">fff</label>
+    <input type="checkbox" id="f2" name="f2" />
+    <label for="f2">из каких компонентов оно складывается</label>
   </div>
 
     <div>
-    <input type="checkbox" id="fff" name="fff" />
-    <label for="fff">fff</label>
+    <input type="checkbox" id="f3" name="f3" />
+    <label for="f3">понятие о непрерывности потока (жидкости)</label>
   </div>
 
     <div>
-    <input type="checkbox" id="fff" name="fff" />
-    <label for="fff">fff</label>
+    <input type="checkbox" id="f4" name="f4" />
+    <label for="f4"> принцип Бернулли</label>
   </div>
 
     <div>
-    <input type="checkbox" id="fff" name="fff" />
-    <label for="fff">fff</label>
+    <input type="checkbox" id="f5" name="f5" />
+    <label for="f5">закон Хагена-Пуазёйля</label>
+  </div>
+  
+    <div>
+    <input type="checkbox" id="f6" name="f6" />
+    <label for="f6">понятие о ламинарном и турбулентном потоках</label>
+  </div>
+  
+    <div>
+    <input type="checkbox" id="f7" name="f7" />
+    <label for="f7">число Рейнольдса <br/> и др.</label>
   </div>
 </fieldset>
 

@@ -15,3 +15,4 @@
 Quack quack
 <text style="color: red">ERROR</text>
 </p>
+![image](https://github.com/user-attachments/assets/98971af4-ac9a-4232-b78f-e76f89580da7)

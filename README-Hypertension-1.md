@@ -11,5 +11,8 @@
  <br/> 
  <br/> 
  
-<mark style="background: #CE00D1!important">Marked text</mark>
+<mark {
+  background-color: yellow;
+  color: black;
+}>Marked text</mark>
  

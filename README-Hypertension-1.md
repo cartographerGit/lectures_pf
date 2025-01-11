@@ -11,5 +11,5 @@
  <br/> 
  <br/> 
  
- <mark style="background-color:burlywood;">very important words</mark>
+<span style="background: blue">marked text</span>
  

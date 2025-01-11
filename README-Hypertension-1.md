@@ -21,4 +21,4 @@
 
  <style>p { color: blue; }</style>
 
- <span style="font-family: 'Lucida Console';">foo</span>
+ <span style="font-family: 'COMIC SANS MS';">foo</span>

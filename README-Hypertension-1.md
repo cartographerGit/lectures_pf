@@ -24,7 +24,7 @@
 
     <div>
     <input type="checkbox" id="f4" name="f4" />
-    <label for="f4"><span style="font-family: 'trebuchet ms'; font-size: 2.3em; color: #909497;">принцип Бернулли</span></label>
+    <label for="f4"><span style="font-family: 'segoe ui'; font-size: 2.3em; color: #909497;">принцип Бернулли</span></label>
   </div>
 
     <div>

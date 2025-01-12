@@ -2,18 +2,17 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-   
+
 </head>
 
 <body>
-  <header>
-  <img src="/название" alt="logo" />
-</header>
+ <!-- <header>
+  <img src="./logo.png" alt="logo" />
+</header>-->
   
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: #F08080;">(необязательный)</span> <br/> 
-<span style="font-family: 'Tahoma'; font-size: 2.1em; color: #CD5C5C;">Minimum minimorum из физики </span> <br/>
+<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #CD5C5C;">Minimum minimorum из физики </span> <br/>
 <br/>
 
 
@@ -63,7 +62,6 @@
       }
    </style>
 
-   
 
 
 

@@ -56,8 +56,8 @@
 
    <style>
       input[type=checkbox] {
-         width: 25em;
-         height: 25em;
+         width: 2em;
+         height: 2em;
       }
    </style>
 

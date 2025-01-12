@@ -10,9 +10,8 @@
   <img src="./logo.png" alt="logo" />
 </header>-->
   
-<span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 
-<span style="font-family: 'trebuchet ms'; font-size: 1em; color: #F08080;">(необязательный)</span> <br/> 
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #CD5C5C;">Minimum minimorum из физики </span> <br/>
+<span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ II</span> <br/> 
+<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #CD5C5C;">Регуляция артериального давления</span> <br/>
 <br/>
 
 

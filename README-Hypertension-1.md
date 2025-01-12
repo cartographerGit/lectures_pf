@@ -6,7 +6,7 @@
 
 <body>
   <header>
-  <img src="/k.png" alt="logo" />
+  <img src="/logo.bmp" alt="logo" />
 </header>
   
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 

@@ -2,13 +2,12 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://learn.microsoft.com/ru-ru/typography/font-list/century-gothic' rel='stylesheet'>
-
-     <style>
+<style>
       input[type=checkbox] {
          width: 30px;
          height: 30px;
       }
-   </style>
+</style>
    
 </head>
 

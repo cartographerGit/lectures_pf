@@ -9,7 +9,7 @@
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>
-    <label for="f1">что такое давление</label>
+    <label for="f1"><span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">что такое давление</span></label>
   </div>
 
   <div>

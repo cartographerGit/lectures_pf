@@ -1,7 +1,7 @@
 <html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-
+<link href='https://learn.microsoft.com/ru-ru/typography/font-list/century-gothic' rel='stylesheet'>
 </head>
 
 <body>
@@ -31,7 +31,7 @@
 
     <div>
     <input type="checkbox" id="f4" name="f4" />
-    <label for="f4"><span style="font-family: 'segoe ui'; font-size: 2.3em; color: #909497;">принцип Бернулли</span></label>
+    <label for="f4"><span style="font-family: 'century gothic'; font-size: 2.3em; color: #909497;">принцип Бернулли</span></label>
   </div>
 
     <div>

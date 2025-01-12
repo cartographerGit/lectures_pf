@@ -5,11 +5,11 @@
 
 
 <fieldset>
-  <legend><span style="font-family: 'trebuchet ms'; font-size: 1.2em; color: #909497;">здесь мы узнаем:  </span></legend>
+  <legend><span style="font-family: 'trebuchet ms'; font-size: 2em; color: #909497;">здесь мы узнаем:  </span></legend>
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>
-    <label for="f1"><span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">что такое давление</span></label>
+    <label for="f1"><span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #909497;">что такое давление</span></label>
   </div>
 
   <div>

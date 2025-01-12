@@ -1,11 +1,7 @@
 <html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Comfortaa';font-size: 22px;
-}
-</style>
+
 </head>
 
 <body>
@@ -20,7 +16,7 @@ body {
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>
-    <label for="f1"><span style="font-family: 'trebuchet ms'; font-size: 2.3em; color: #909497;">что такое давление</span></label>
+    <label for="f1"><span style="font-family: 'Comfortaa'; font-size: 2.3em; color: #909497;">что такое давление</span></label>
   </div>
 
   <div>

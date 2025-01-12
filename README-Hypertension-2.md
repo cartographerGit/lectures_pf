@@ -10,8 +10,8 @@
   <img src="./logo.png" alt="logo" />
 </header>-->
   
-<span style="font-family: 'Comfortaa'; font-size: 1.5em; color: #CD5C5C;">разqел II</span> <br/> 
-<span style="font-family: 'Comfortaa'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального qавления</span> <br/>
+<span style="font-family: 'Comfortaa'; font-size: 1.5em; color: #CD5C5C;">раздел II</span> <br/> 
+<span style="font-family: 'Comfortaa'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
 
@@ -56,11 +56,16 @@
 
    <style>
       input[type=checkbox] {
-         width: 2em;
-         height: 2em;
+         width: 1.5em;
+         height: 1.5em;
       }
    </style>
+ <br/>
+ <br/>
+ <br/>
 
+<span style="font-family: 'Montserrat'; font-size: 1.5em; color: #CD5C5C;">Здесь мы будем обсуждать то, что важно для кардиологии. Давление и перфузия (кровоснабжение тканей), очевидно, важны и для других областей медицины - например, для интенсивной терапии (массивная кровопотеря, шок и др.). Этим аспектам внимание будет уделено в "Патофизиологии критических состояний" (ссылка: еще не готова)
+</span> <br/>  
 
 
 

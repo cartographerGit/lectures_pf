@@ -8,7 +8,7 @@
 
 <body>
   <header>
-  <img src="/logo.bmp" alt="logo" />
+  <img src="/название" alt="logo" />
 </header>
   
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 

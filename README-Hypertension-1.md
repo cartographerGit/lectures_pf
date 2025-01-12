@@ -14,7 +14,7 @@
 
   <div>
     <input type="checkbox" id="f2" name="f2" />
-    <label for="f2"><span style="font-family: 'trebuchet ms'; font-size: 2.3em; color: #909497;">из каких компонентов оно складывается</span></label>
+    <label for="f2"><span style="font-family: 'franklin gothic medium'; font-size: 2.3em; color: #909497;">из каких компонентов оно складывается</span></label>
   </div>
 
     <div>

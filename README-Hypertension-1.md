@@ -6,9 +6,9 @@
 </head>
 
 <body>
-  [//]: # <header>
+ <!-- <header>
   <img src="./logo.png" alt="logo" />
-</header>
+</header>-->
   
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: #F08080;">(необязательный)</span> <br/> 

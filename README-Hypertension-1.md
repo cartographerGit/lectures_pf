@@ -1,3 +1,14 @@
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Comfortaa';font-size: 22px;
+}
+</style>
+</head>
+
+<body>
 <span style="font-family: 'trebuchet ms'; font-size: 1.5em; color: #F08080;">РАЗДЕЛ I</span> <br/> 
 <span style="font-family: 'trebuchet ms'; font-size: 1em; color: #F08080;">(необязательный)</span> <br/> 
 <span style="font-family: 'Tahoma'; font-size: 2.1em; color: #CD5C5C;">Minimum minimorum из физики </span> <br/>
@@ -70,3 +81,7 @@
  <style>p { color: blue; }</style>
 
  <span style="font-family: 'COMIC SANS MS'; font-size: 5hv; color: red;">foo</span>
+
+
+</body> 
+</html>

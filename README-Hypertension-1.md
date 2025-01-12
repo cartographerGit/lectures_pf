@@ -19,7 +19,7 @@
 
     <div>
     <input type="checkbox" id="f3" name="f3" />
-    <label for="f3"><span style="font-family: 'corbel'; font-size: 2.3em; color: #909497;">понятие о непрерывности потока (жидкости)</span></label>
+    <label for="f3"><span style="font-family: 'courier'; font-size: 2.3em; color: #909497;">понятие о непрерывности потока (жидкости)</span></label>
   </div>
 
     <div>

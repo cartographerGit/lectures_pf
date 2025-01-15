@@ -3,7 +3,7 @@
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Century+Gothic' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Questrial' rel='stylesheet'>
  
 </head>
 
@@ -13,7 +13,7 @@
 </header>-->
   
 <span style="font-family: 'Century Gothic'; font-size: 1.5em; color: #CD5C5C;">раздел II</span> <br/> 
-<span style="font-family: 'Muli'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
+<span style="font-family: 'Questrial'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
 

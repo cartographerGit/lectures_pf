@@ -3,7 +3,7 @@
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Century+Gothic' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Questrial' rel='stylesheet'>
+<link href='https://fonts-online.ru/fonts/gotham-pro' rel='stylesheet'>
  
 </head>
 

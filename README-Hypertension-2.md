@@ -2,7 +2,15 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-
+@font-face {
+font-family: 'CenturyGothic';
+src: url('fonts/CenturyGothic.eot');
+src: url('fonts/CenturyGothic.eot') format('embedded-opentype'),
+url('fonts/CenturyGothic.woff2') format('woff2'),
+url('fonts/CenturyGothic.woff') format('woff'),
+url('fonts/CenturyGothic.ttf') format('truetype'),
+url('fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+}
 </head>
 
 <body>

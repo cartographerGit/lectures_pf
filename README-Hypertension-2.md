@@ -1,4 +1,4 @@
-
+<html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
@@ -286,6 +286,6 @@ VII. ЧСС. <br/>
 
 СПОЙЛЕР<br/>
 <br/>
-<br/>
+<br/><html>
 
 

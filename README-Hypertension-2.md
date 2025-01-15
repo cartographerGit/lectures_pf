@@ -11,7 +11,7 @@
   <img src="./logo.png" alt="logo" />
 </header>-->
   
-<span style="font-family: 'CenturyGothic'; font-size: 1.5em; color: #CD5C5C;">раздел II</span> <br/> 
+<span style="font-family: 'Century Gothic'; font-size: 1.5em; color: #CD5C5C;">раздел II</span> <br/> 
 <span style="font-family: 'Comfortaa'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 

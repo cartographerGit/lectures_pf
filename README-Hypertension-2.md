@@ -281,7 +281,7 @@ VII. ЧСС. <br/>
 <br/> 
 <br/> 
 
-<span style="font-family: 'Montserrat'; font-size: 1.1em; color: #7b7d7d;"> 
+<span style="font-family: 'Montserrat'; font-size: 200%; color: #7b7d7d;"> 
 Что еще за сердечный выброс (СВ)?<br/> 
 Сердечный выброс (cardiac output) - это синоним МОК <br/> 
 Мы уже знаем, что ΔP = МОК (или СВ) × R <br/> 

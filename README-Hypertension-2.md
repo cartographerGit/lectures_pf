@@ -289,13 +289,13 @@ VII. ЧСС. <br/>
 <br/>
 
 
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #7b7d7d;"> 
+<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #7b7d7d;">
 ЧАСТЬ 2. Давление и сердечный выброс
 </span> 
 <br/> 
 <br/> 
 
-<span style="font-family: 'Montserrat'; font-size: 1.7em; color: #7b7d7d;"> 
+<span style="font-family: 'Montserrat'; font-size: 1.1em; color: #7b7d7d;"> 
 Что еще за сердечный выброс (СВ)?<br/> 
 Сердечный выброс (cardiac output) - это синоним МОК <br/> 
 Мы уже знаем, что ΔP = МОК (или СВ) × R <br/> 
@@ -331,48 +331,7 @@ VII. ЧСС. <br/>
 ☐ электролитные расстройства <br/> 
 
 </span> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
-
-<br/> 
 
 
 
@@ -402,5 +361,4 @@ VII. ЧСС. <br/>
 
 
 </body> 
-
 </html>

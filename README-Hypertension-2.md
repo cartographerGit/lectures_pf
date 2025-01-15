@@ -13,12 +13,12 @@
 </header>-->
   
 <span style="font-family: 'Cormorant'; font-size: 100%; color: #CD5C5C;">раздел II</span> <br/> 
-<span style="font-family: 'Cormorant'; font-size: 2.1em; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
+<span style="font-family: 'Cormorant'; font-size: 127%; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
 
 <fieldset>
-  <legend><span style="font-family: 'Montserrat'; font-size: 1.2em; color: #909497;">здесь мы узнаем:  </span></legend>
+  <legend><span style="font-family: 'Montserrat'; font-size: 100%em; color: #909497;">здесь мы узнаем:  </span></legend>
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>
@@ -73,11 +73,11 @@
  <br/>
 
  <!-- стеноз, СОАС, брадикардия -->
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 127%; color: #7b7d7d;">
 Прежде, чем начать изучение, рассмотрим клинический случай 
 </span> 
 
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 127%; color: #7b7d7d;">
 Клинический случай №1 <br/>
 Анамнез и жалобы: Пациент, 16 лет <br/>
 Физикальное обследование:<br/>
@@ -100,7 +100,7 @@
 
 
 
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 127%; color: #7b7d7d;">
 Итак,<br/> 
 ЧАСТЬ 1. Как взаимосвязаны поток-давление-сопротивление
 </span> 
@@ -124,7 +124,7 @@
 Высокое давление "толкает"/"выдавливает" жидкость туда, где давление меньше.
 </span>  <br/>
 
-<span style="font-family: 'Montserrat'; font-size: 0.7em; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 90%em; color: #7b7d7d;">
 (Строго говоря это не так - жидкость двигается из-за градиента энергии, а не градиента давления. Подробнее в первом разделе "Minimum minimorum из физики")
 </span> 
 

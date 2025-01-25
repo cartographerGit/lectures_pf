@@ -12,8 +12,8 @@
   <img src="./logo.png" alt="logo" />
 </header>-->
   
-<span style="font-family: 'Comfortaa'; font-size:100px; color: #CD5C5C;">раздел II</span> <br/> 
-<h1><span style="font-family: 'Comfortaa'; font-size:200px; color: #CD5C5C;">Регyляция артериального давления</span></h1> <br/>
+<span style="font-family: 'Comfortaa'; font-size:20px; color: #CD5C5C;">раздел II</span> <br/> 
+<span style="font-family: 'Comfortaa'; font-size:90px; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
 

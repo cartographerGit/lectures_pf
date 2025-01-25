@@ -355,13 +355,13 @@ VII. ЧСС. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; уретральный катетер <br/>
 ▢ прочее <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;аденозин, стимулирующий A1-рецепторы <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие кальциевые каналы (верапамил, дилтиазем) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие натриевые каналы (лидокаин, ) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие If каналы, ответсвенные за автоматизм СА-узла (ивабрадин) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие кальциевые (Са) каналы (верапамил, дилтиазем) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие натриевые (Na) каналы (лидокаин, антиконвульсанты) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, блокирующие If каналы, ответственные за автоматизм СА-узла (ивабрадин) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, alpha-2 adrenergic agonist  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, alpha-2 adrenergic agonist  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;другие лекарства () <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;электролитные расствойства, наследственные и приобретенные болезни серда (подробнее в главе "Аритмии"; ссылка еще не готова)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лекарства, Ialpha-2 adrenergic agonist  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;другие лекарства (наркотические анальгетики, аналоги соматостатина, киназные ингибиторы, модуляторы S1P-рецепторов) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;электролитные расстройства, наследственные и приобретенные болезни серда (подробнее в главе "Аритмии"; ссылка еще не готова)<br/>
 <br/>
 <br/>
 <br/>

@@ -12,8 +12,8 @@
   <img src="./logo.png" alt="logo" />
 </header>-->
   
-<span style="font-family: 'Comfortaa'; font-size: 150%; color: #CD5C5C;">раздел II</span> <br/> 
-<span style="font-family: 'Comfortaa'; font-size: 279%; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
+<h4><span style="font-family: 'Comfortaa'; font-size:; color: #CD5C5C;">раздел II</span></h4> <br/> 
+<h2><span style="font-family: 'Comfortaa'; font-size:; color: #CD5C5C;">Регyляция артериального давления</span></h2> <br/>
 <br/>
 
 
@@ -92,6 +92,8 @@
 <br/>
 <br/>
 <br/>
+
+
 <span style="font-family: 'Montserrat'; font-size: 270%; color: #7b7d7d;">
 Итак,<br/> 
 ЧАСТЬ 1. Как взаимосвязаны поток-давление-сопротивление

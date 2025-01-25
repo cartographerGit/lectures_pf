@@ -8,12 +8,12 @@
 </head>
 
 
- <header>
+ <!-- <header>
   <img src="./logo.png" alt="logo" />
-</header>
+</header>-->
   
 <h4><span style="font-family: 'Comfortaa'; font-size:; color: #CD5C5C;">раздел II</span></h4> <br/> 
-<h2><span style="font-family: 'Comfortaa'; font-size:; color: #CD5C5C;">Регyляция артериального давления</span></h2> <br/>
+<h1><span style="font-family: 'Comfortaa'; font-size:; color: #CD5C5C;">Регyляция артериального давления</span></h1> <br/>
 <br/>
 
 

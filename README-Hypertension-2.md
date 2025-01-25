@@ -13,7 +13,7 @@
 </header>-->
   
 <span style="font-family: 'Comfortaa'; font-size:20px; color: #CD5C5C;">раздел II</span> <br/> 
-<span style="font-family: 'Comfortaa'; font-size:90px; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
+<span style="font-family: 'Comfortaa'; font-size:40px; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
 

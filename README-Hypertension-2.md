@@ -18,7 +18,7 @@
 
 
 <fieldset>
-  <legend><span style="font-family: 'Montserrat'; font-size: 200%em; color: #909497;">здесь мы узнаем:  </span></legend>
+  <legend><span style="font-family: 'Montserrat'; font-size: 100%; color: #909497;">здесь мы узнаем:  </span></legend>
 
   <div>
     <input type="checkbox" id="f1" name="f1"/>

@@ -95,7 +95,7 @@
 <br/>
 
 
-<span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
+<span style="font-family: 'Nunito'; font-size: 40px; color: #7b7d7d;">
 Итак,<br/> 
 ЧАСТЬ 1. Как взаимосвязаны поток-давление-сопротивление
 </span> 

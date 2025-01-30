@@ -122,7 +122,7 @@
 </span>  <br/><br/>
 
 <span style="font-family: 'Montserrat'; font-size: 17px; color: #BFBFBF;">
-(Строго говоря это не так - жидкость двигается из-за градиента энергии, а не градиента давления. Подробнее в первом разделе "Minimum minimorum из физики")
+(Строго говоря это не так - жидкость двигается из-за градиента энергии, а не градиента давления. Подробнее в разделе №1 «Minimum minimorum из физики»)
 </span> <br/><br/>
 
 <span style="font-family: 'Montserrat'; font-size: 25px; color: #7b7d7d;">

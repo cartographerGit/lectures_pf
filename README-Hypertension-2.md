@@ -74,7 +74,7 @@
 
  <!-- стеноз, СОАС, брадикардия -->
 <span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
-Прежде, чем начать изучение, рассмотрим клинический случай 
+Прежде, чем начать изучение, рассмотрим клинический случай <br/>
 </span> 
 
 <span style="font-family: 'Montserrat'; font-size: 30px; color: #7b7d7d;">
@@ -94,13 +94,14 @@
 <br/>
 
 
-<span style="font-family: 'Montserrat'; font-size: 270%; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
 Итак,<br/> 
 ЧАСТЬ 1. Как взаимосвязаны поток-давление-сопротивление
 </span> 
 <br/> 
 <br/> 
-<span style="font-family: 'Montserrat'; font-size: 200%; color: #7b7d7d;">
+
+<span style="font-family: 'Montserrat'; font-size: 25px; color: #7b7d7d;">
 Поток - это сколько литров (или милилитров, или микролитров) протекает по трубочке за секунду (или за минуту, или за час). <br/> 
 Поток также называют объемной скоростью, но не путаем ее с обычной (линейной) скоростью - сколько метров за секунду. <br/> 
 <br/>
@@ -117,7 +118,7 @@
 Высокое давление "толкает"/"выдавливает" жидкость туда, где давление меньше.
 </span>  <br/>
 
-<span style="font-family: 'Montserrat'; font-size: 90%em; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 20px; color: #7b7d7d;">
 (Строго говоря это не так - жидкость двигается из-за градиента энергии, а не градиента давления. Подробнее в первом разделе "Minimum minimorum из физики")
 </span> 
 

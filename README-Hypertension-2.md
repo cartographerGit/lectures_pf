@@ -421,7 +421,7 @@ VII. ЧСС. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;серотонин (5-гидрокситриптамин) через 5-HT<sub>4</sub>-рецепторы<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;гистамин через H<sub>2</sub>-рецепторы)<br/>
 <br/>
-<hr width="100%" size="2" color="blue" noshade>
+<mark style="background-color: #ABCDEF;"> <hr width="100%" size="2" color="blue" noshade></mark>
 Кроме САС, есть еще вторая часть автономной нервной системы - это <mark style="background-color: #ABCDEF;"> парасимпатическая</mark> нервная система (ПНС). <br/>
 Парасимпатическая инервация сердца происходит по блуждающему нерву (n. vagus, X пара черепнмозговых нервов).<br/>
 Медиатор ПНС - ацетилхолин. Он действует на М2-холинорецепторы в сердце, от этого ЧСС снижается. <br/>

@@ -17,7 +17,7 @@
 <span style="font-family: 'Comfortaa'; font-size:40px; color: #CD5C5C;">Регyляция артериального давления</span> <br/>
 <br/>
 
-<iframe src="https://www.educaplay.com/learning-resources/22069598-html.html" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://www.educaplay.com/learning-resources/20237047-learning_resource.html" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 <fieldset>
   <legend><span style="font-family: 'Montserrat'; font-size: 100%; color: #909497;">здесь мы узнаем:  </span></legend>
 

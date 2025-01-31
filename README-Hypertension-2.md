@@ -95,11 +95,11 @@
 <br/>
 
 
-<span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
+<span style="font-family: 'Montserrat'; font-size: 45px; color: #7b7d7d;">
 <b>Часть 1</b>
 </span> <br/>
-<span style="font-family: 'Montserrat'; font-size: 28px; color: #7b7d7d;">
-<b>Как взаимосвязаны поток-давление-сопротивление</b>b>
+<span style="font-family: 'Montserrat'; font-size: 32px; color: #7b7d7d;">
+<b>Как взаимосвязаны поток-давление-сопротивление</b>
 </span> 
 <br/> 
 <br/> 

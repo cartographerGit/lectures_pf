@@ -422,7 +422,7 @@ VII. ЧСС. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;гистамин через H<sub>2</sub>-рецепторы)<br/>
 <br/>
 
-<hr align="left" width="300" size="4" color="#ff9900" />
+<hr align="left" width="400" size="4" color="#ff9900" />
 
 <p align="right">Кроме САС, есть еще вторая часть автономной нервной системы - это <mark style="background-color: #ABCDEF;"> парасимпатическая</mark> нервная система (ПНС). <br/>
 Парасимпатическая инервация сердца происходит по блуждающему нерву (n. vagus, X пара черепнмозговых нервов).<br/>

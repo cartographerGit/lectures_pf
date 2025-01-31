@@ -96,10 +96,10 @@
 
 
 <span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
-Итак,<br/><br/><br/> 
-**ЧАСТЬ 1** </span> <br/>
+<b>Часть 1</b>
+</span> <br/>
 <span style="font-family: 'Montserrat'; font-size: 28px; color: #7b7d7d;">
-**Как взаимосвязаны поток-давление-сопротивление**
+<b>Как взаимосвязаны поток-давление-сопротивление</b>b>
 </span> 
 <br/> 
 <br/> 

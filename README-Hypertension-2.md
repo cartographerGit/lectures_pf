@@ -96,9 +96,10 @@
 
 
 <span style="font-family: 'Montserrat'; font-size: 40px; color: #7b7d7d;">
-Итак,<br/> 
-ЧАСТЬ 1. <br/>
-Как взаимосвязаны поток-давление-сопротивление
+Итак,<br/><br/><br/> 
+**ЧАСТЬ 1** </span> <br/>
+<span style="font-family: 'Montserrat'; font-size: 28px; color: #7b7d7d;">
+**Как взаимосвязаны поток-давление-сопротивление**
 </span> 
 <br/> 
 <br/> 

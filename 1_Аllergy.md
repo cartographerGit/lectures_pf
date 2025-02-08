@@ -6,7 +6,7 @@
 ## [Скачать презентацию](1_Allergy-2.md)
 <br/>
 
-## [Тренировать знания](1_Allergy-3.md)
+## [Тренировать знания](1_Allergy-3.md) <img src="./critical thinking.gif" alt="drawing" width="200"/>
 <br/>
 
 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>

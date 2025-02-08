@@ -1,11 +1,4 @@
-<html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Cormorant' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
 
-</head>
 
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="400"/>](README-Allergy.md)      | [<img src="./не готово.png" alt="drawing" width="400"/>](README-Allergy.md)      | 

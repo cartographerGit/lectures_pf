@@ -14,8 +14,7 @@
 
 ➯ Скачать презентацию <br/>
  <br/>
-➯ <a href="https://www.flaticon.com/free-animated-icon/critical-thinking_15577805"><img src="./не готово.png"></a>
-</span> 
+
 
 
 </html> 

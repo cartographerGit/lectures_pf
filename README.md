@@ -21,7 +21,7 @@
       <td><a href=""><img src="./не готово.png" alt="drawing" width="800"/></a></td>
     </tr>
     <tr>
-      <td>ДЫХАНИЕ</td>
+      <td>[I. Minimum minimorum из физики (необязательно)](README-Allergy.md)</td>
       <td>ЖКТ</td>
       <td>ПЕЧЕНЬ</td>
       <td>ПОЧКИ</td>

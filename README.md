@@ -2,7 +2,6 @@
 
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="450"/>](README-Allergy.md)      | [<img src="./не готово.png" alt="drawing" width="450"/>](README-Allergy.md)      | <br/>
-
 |<span style="color: #507AA3; font-family: Corbel Light; font-size: 2em;">АЛЛЕРГИЯ</span>| <span style="color: #507AA3; font-family: Corbel Light; font-size: 2em;">Анемии</span>| <br/>
 
 | [<img src="./не готово.png" alt="drawing" width="450"/>](README-Allergy.md)      | [<img src="./не готово.png" alt="drawing" width="450"/>](README-Allergy.md)      | 

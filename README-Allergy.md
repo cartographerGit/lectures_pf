@@ -11,7 +11,7 @@
 
 
 <span style="font-family: 'Montserrat'; font-size: 4em; color: #507AA3;">
-➯ Cмотреть презентацию <br/>
+➯ <a href="./R">Cмотреть презентацию</a> <br/>
  <br/>
 ➯ Скачать презентацию <br/>
  <br/>

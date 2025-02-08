@@ -1,4 +1,4 @@
-# Лекция №1. Аллергия
+# <span style="color: #507AA3; font-family: Corbel Light; font-size: 200%;">Лекция №1. Аллергия</span>
 
 ## [Смотреть презентацию](1_Allergy-1.md)
 <br/>

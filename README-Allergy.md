@@ -10,7 +10,7 @@
 
 
 
-<span style="font-family: 'Montserrat'; font-size: 2.1em; color: #507AA3;">
+<span style="font-family: 'Montserrat'; font-size: 4em; color: #507AA3;">
 ➯ Cмотреть лекцию <br/>
  <br/>
 ➯ Скачать лекцию <br/>

@@ -5,7 +5,6 @@
 <link href='https://fonts.googleapis.com/css?family=Cormorant' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
 
- <title>Horizontal line </title>
 </head>
 
 

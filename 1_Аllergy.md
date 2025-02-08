@@ -1,4 +1,4 @@
-# <span style="color: #507AA3; font-family: Corbel Light;">Лекция №1. Аллергия</span>
+# <span style="color: #507AA3; font-family: Corbel Light;">лекция №1 Аллергия</span>
 
 ## [<span style="color: #507AA3; font-family: Corbel Light;">Смотреть презентацию</span>](1_Allergy-1.md)
 <br/>

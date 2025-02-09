@@ -9,7 +9,7 @@
 [<img src="./клин.png" alt="drawing" width="300"/>](1_Allergy-3-3.md)&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="./карта.png" alt="drawing" width="300"/>](1_Allergy-3-4.md)<br/>
 <br/>
 <br/>
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 150%">назад</span>](1_Allergy.md)<br/>
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 150%">назад</span>](1_Аllergy.md)<br/>
 <br/>
 <br/>
 <br/>

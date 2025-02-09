@@ -18,6 +18,9 @@
 
 
 
-<footer style="color: #fafaff; height: 100px; width: 100%; position: fixed; bottom:0; left:0;>           
-tel:380504565656" 
+<footer>           
+tel:380504565656 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
 </footer>
+
+
+

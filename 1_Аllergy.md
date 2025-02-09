@@ -27,7 +27,8 @@
 
 
 <footer>           
-by cartographer CC BY-NC-SA 4.0<br/><br/>
+by cartographer<br/> 
+CC BY-NC-SA 4.0<br/><br/>
 
 при создании страницы использовались :
 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>

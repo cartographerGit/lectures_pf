@@ -11,15 +11,26 @@
 
 [<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Тренировать знания</span>](1_Allergy-3.md) <img src="./critical-thinking.gif" alt="drawing" width="100"/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
+
 
 
 
 
 
 <footer>           
-tel:380504565656 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
+by cartographer CC BY-NC-SA 4.0
+
+при создании страницы использовались :
+<a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
 </footer>
 
 

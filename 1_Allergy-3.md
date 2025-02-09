@@ -7,3 +7,4 @@
 
 
 
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://www.educaplay.com/game/20652877-learning_resource.html"></iframe>

@@ -17,4 +17,11 @@
 
 
 
+
+
+<footer>
+
 [на главную страницу](README.md)
+<a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
+  
+</footer>

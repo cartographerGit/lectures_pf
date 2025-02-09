@@ -2,4 +2,4 @@
 <br>
 <br>
 <br>
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">назад к списку тренировок</span>](1_Allergy-3.md)
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 150%">назад к списку тренировок</span>](1_Allergy-3.md)

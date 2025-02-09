@@ -15,3 +15,12 @@
 
 
 
+<footer>           
+by cartographer CC BY-NC-SA 4.0<br/><br/>
+
+при создании страницы использовались:<br/>
+<a href="https://www.flaticon.com/free-icons/flash-card" title="flash card icons">Flash card icons created by manshagraphics - Flaticon</a><br/>
+<a href="https://www.flaticon.com/free-icons/map" title="map icons">Map icons created by Freepik - Flaticon</a><br/>
+<a href="https://www.flaticon.com/free-icons/board-game" title="board game icons">Board game icons created by Freepik - Flaticon</a><br/>
+<br/>
+</footer>

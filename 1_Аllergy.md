@@ -19,7 +19,7 @@
 
 
 
-    <footer bgcolor="yellow">
+    <footer style="height: 100px; width: 100%; position: fixed; bottom:0; left:0; color="yellow">
         
                 
                 tel:380504565656" 

@@ -10,8 +10,8 @@
 <span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">
 формат pdf </span>
 <a href="./1-allergy-slides.pdf" download>
-<span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;"><br/>
-cкачать </span></a> <br/>
+<button class="btn"><i class="fa fa-download"></i> скачать</button></a> <br/>
+
  <br/>
 
  <span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">

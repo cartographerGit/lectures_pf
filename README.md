@@ -20,3 +20,7 @@
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Эндокринопатии</span> <br/>
 
 
+<footer>           
+by cartographer<br/> 
+CC BY-NC-SA 4.0
+</footer>

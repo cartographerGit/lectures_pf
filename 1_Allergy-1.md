@@ -8,5 +8,5 @@
 <br>
 <embed class="pdf" 
                src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+"./1-allergy-slides.pdf"
             width="800" height="500">

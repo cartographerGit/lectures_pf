@@ -8,10 +8,10 @@
 </head>
 
 <span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">
-формат pdf </span>
+формат pdf </span>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="./1-allergy-slides.pdf" download>
-<span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;"><br/>
-&nbsp;&nbsp;&nbsp;&nbsp; ⤓&nbsp;cкачать</span></a> <br/>
+<span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">
+⤓&nbsp;cкачать</span></a> <br/>
 
  <br/>
 

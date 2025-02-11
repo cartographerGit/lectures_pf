@@ -6,7 +6,7 @@
 <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
 
 </head>
-
+<a href="./1-allergy-slides.pdf" download="скачать презентацию">
 
 
 
@@ -14,7 +14,7 @@
 
 ➯ Скачать презентацию <br/>
  <br/>
-<a href="./1-allergy-slides.pdf" download="скачать презентацию">
+
 
 
  <br/><html> 

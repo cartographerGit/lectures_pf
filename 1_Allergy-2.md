@@ -13,8 +13,7 @@
 <span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;"><br/>
 cкачать </span></a> <br/>
  <br/>
- <br/>
- <br/>
+
  <span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">
 формат pttx </span>
 <a href="./1-allergy-slides.pttx" download>

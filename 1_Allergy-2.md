@@ -14,7 +14,7 @@
 
 ➯ Скачать презентацию <br/>
  <br/>
-<a href="./1-allergy-slides.pdf" download>
+<a href="./1-allergy-slides.pdf" download="скачать презентацию">
 
 
  <br/><html> 

@@ -7,7 +7,7 @@
 
 </head>
 
-<span style="font-family: 'Montserrat'; font-size: 300%; color: #e0e0e0;">
+<span style="font-family: 'Montserrat'; font-size: 250%; color: #e0e0e0;">
 формат pdf </span>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="./1-allergy-slides.pdf" download>
 <span style="font-family: 'Montserrat'; font-size: 300%; color: #507AA3;">
@@ -15,7 +15,7 @@
 
  <br/>
 
- <span style="font-family: 'Montserrat'; font-size: 300%; color: #e0e0e0;">
+ <span style="font-family: 'Montserrat'; font-size: 250%; color: #e0e0e0;">
 формат pttx </span>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="./1-allergy-slides.pttx" download>
 <span style="font-family: 'Montserrat'; font-size: 300%; color: #507AA3;">⤓&nbsp;cкачать</span></a> 

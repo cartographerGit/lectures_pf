@@ -8,11 +8,11 @@
 </head>
 
 
-<a href="./1-allergy-slides.pdf" download="скачать ">
+<a href="./1-allergy-slides.pdf" download>
 
 
 
-<span style="font-family: 'Montserrat'; font-size: 4em; color: #507AA3;">
+<span style="font-family: 'Montserrat'; font-size: 200%; color: #507AA3;">
 
 ➯ Скачать презентацию <br/>
  <br/>

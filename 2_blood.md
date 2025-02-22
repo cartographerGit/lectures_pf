@@ -1,15 +1,15 @@
 # <span style="color: #507AA3; font-family: Corbel Light;">лекция №2 </span><br><span style="color: #507AA3; font-family: Corbel Light; font-size: 200%">Анемии</span>
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Смотреть презентацию</span>](1_blood-1.md)
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Смотреть презентацию</span>](2_blood-1.md)
 <br/>
 <br/>
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Скачать презентацию</span>](1_blood-2.md)
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Скачать презентацию</span>](2_blood-2.md)
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Тренировать знания</span>](1_blood-3.md) <img src="./critical-thinking.gif" alt="drawing" width="100"/>
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Тренировать знания</span>](2_blood-3.md) <img src="./critical-thinking.gif" alt="drawing" width="100"/>
 <br/>
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 | [<img src="./аллергия обложка.png" alt="drawing" width="1000"/>](1_Аllergy.md)      <br/> 
 |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>
-| [<img src="./анемии обложка.png" alt="drawing" width="1000"/>](1_blood.md)       <br/>
+| [<img src="./анемии обложка.png" alt="drawing" width="1000"/>](2_blood.md)       <br/>
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>
 | [<img src="./не готово.png" alt="drawing" width="1000"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">АГ</span> <br/>

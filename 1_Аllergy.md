@@ -1,7 +1,7 @@
 # <span style="color: #507AA3; font-family: Corbel Light;">лекция №1 </span><br><span style="color: #507AA3; font-family: Corbel Light; font-size: 200%">Аллергия</span>
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Смотреть презентацию</span>](1_Allergy-1.md)
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size:50vw">➫ Смотреть презентацию</span>](1_Allergy-1.md)
 <br/>
 <br/>
 <br/>

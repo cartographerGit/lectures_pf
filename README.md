@@ -1,4 +1,4 @@
-| [<img src="./аллергия обложка.png" alt="drawing" width="10%"/>](1_Аllergy.md)      <br/> 
+| [<img src="./аллергия обложка.png" alt="drawing" width="90%"/>](1_Аllergy.md)      <br/> 
 |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>
 | [<img src="./анемии обложка.png" alt="drawing" width="100%"/>](2_blood.md)       <br/>
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>

@@ -6,10 +6,10 @@
 <br/>
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Скачать презентацию</span>](1_Allergy-2.md)
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 7vw">➫ Скачать презентацию</span>](1_Allergy-2.md)
 <br/>
 
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 250%">➫ Тренировать знания</span>](1_Allergy-3.md) <img src="./critical-thinking.gif" alt="drawing" width="100"/>
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 7vw">➫ Тренировать знания</span>](1_Allergy-3.md) <img src="./critical-thinking.gif" alt="drawing" width="100"/>
 <br/>
 <br/>
 <br/>

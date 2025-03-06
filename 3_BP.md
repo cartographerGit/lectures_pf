@@ -6,7 +6,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 [<span style="color: #81AAD1; font-family: Corbel Light;font-size: 7vw">➫ Скачать презентацию</span>](3_BP-2.md)
 <br/>

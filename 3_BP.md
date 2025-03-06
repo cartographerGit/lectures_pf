@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <br/>
-<img src="./critical-thinking.gif" alt="drawing" width="100"/>
+<img src="./critical-thinking.gif" alt="drawing" width="100"/><br/>
 [<span style="color: #81AAD1; font-family: Corbel Light;font-size: 7vw">➫ Тренировать знания</span>](3_BP-3.md) 
 <br/>
 <br/>

@@ -3,13 +3,13 @@
 
 >
 
-[<img src="./карты.png" alt="drawing" width="300"/>](2_Blood-3-1.md)&emsp;&emsp;&emsp;&emsp;[<img src="./match.png" alt="drawing" width="300"/>](2_Blood-3-2.md)<br/>
+[<img src="./карты.png" alt="drawing" width="300"/>](2_blood-3-1.md)&emsp;&emsp;&emsp;&emsp;[<img src="./match.png" alt="drawing" width="300"/>](2_blood-3-2.md)<br/>
 <br/>
 
-[<img src="./клин.png" alt="drawing" width="300"/>](2_Blood-3-3.md)&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="./карта.png" alt="drawing" width="300"/>](2_Blood-3-4.md)<br/>
+[<img src="./клин.png" alt="drawing" width="300"/>](2_blood-3-3.md)&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="./карта.png" alt="drawing" width="300"/>](2_blood-3-4.md)<br/>
 <br/>
 <br/>
-[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 150%">назад</span>](2_Blood-3.md)<br/>
+[<span style="color: #81AAD1; font-family: Corbel Light;font-size: 150%">назад</span>](2_blood-3.md)<br/>
 <br/>
 <br/>
 <br/>

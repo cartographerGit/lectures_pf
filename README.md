@@ -5,7 +5,7 @@
 | [<img src="./обложка BP.png" alt="drawing" width="85%"/>](3_BP.md)     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">АГ</span> <br/>
 | [<img src="./обложка_HF.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ХСН</span> <br/>
+| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ХСН (не закончена)</span> <br/>
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Дыхание</span> <br/>
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 

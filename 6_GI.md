@@ -1,4 +1,4 @@
-# <span style="color: #507AA3; font-family: Corbel Light;">лекция №6 </span><br><span style="color: #507AA3; font-family: Corbel Light; font-size: 200%">Желудок (не закончена)</span>
+# <span style="color: #507AA3; font-family: Corbel Light;">лекция №6 </span><br><span style="color: #507AA3; font-family: Corbel Light; font-size: 200%">Желудок </span>
 <br/>
 
 [<span style="color: #81AAD1; font-family: Corbel Light;font-size:10vw">➫ Смотреть презентацию</span>](6_GI-1.md)

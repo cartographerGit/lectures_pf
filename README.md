@@ -8,9 +8,9 @@
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ХСН (не закончена)</span> <br/>
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Дыхание</span> <br/>
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
+| [<img src="./6_GI-обложка.pn" alt="drawing" width="85%"/>](6_GI.md)     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Желудок (не закончена)</span> <br/>
-| [<img src="./6_GI-обложка.png" alt="drawing" width="85%"/>](6_GI.md)     <br/> 
+| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Печень</span> <br/>
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Почки</span> <br/>

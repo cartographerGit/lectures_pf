@@ -1,7 +1,7 @@
 
 <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: MS Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Latha; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Palatino Linotype; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Tunga; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>

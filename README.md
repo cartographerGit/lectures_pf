@@ -1,4 +1,4 @@
-[<img src="./аллергия обложка.png" alt="drawing" width="33%"/>](1_Аllergy.md) [<img src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)  [<img src="./обложка BP.png" alt="drawing" width="33%"/>](3_BP.md)
+[<img src="./аллергия обложка.png" alt="drawing" width="30%"/>](1_Аllergy.md)    [<img src="./анемии обложка.png" alt="drawing" width="30%"/>](2_blood.md)    [<img src="./обложка BP.png" alt="drawing" width="30%"/>](3_BP.md)
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="85%"/>](1_Аllergy.md)      <br/> |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>| [<img src="./анемии обложка.png" alt="drawing" width="85%"/>](2_blood.md)       <br/>
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>

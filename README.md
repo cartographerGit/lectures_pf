@@ -1,8 +1,8 @@
 
-<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Corbel Light; font-size: 500%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Impact; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Impact Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Courier New; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Webdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>

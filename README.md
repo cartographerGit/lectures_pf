@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
 </head>
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 500%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
 
 

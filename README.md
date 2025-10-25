@@ -1,3 +1,5 @@
+<html>
+
 <table>
         <td>Название</td>
         <td>Оригинальное название</td>
@@ -47,3 +49,5 @@
 by cartographer<br/> 
 CC BY-NC-SA 4.0
 </footer>
+
+</html>

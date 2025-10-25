@@ -4,10 +4,10 @@
 <span style="color: #507AA3; font-family: MS Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Latha; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Palatino Linotype; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Tunga; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Webdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Westminster; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Wingdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
 
 [<img src="./аллергия обложка.png" alt="drawing" width="30%" border="10" Style="border-color:#507AA3"/>](1_Аllergy.md)    [<img src="./анемии обложка.png" alt="drawing" width="30%"/>](2_blood.md)    [<img src="./обложка BP.png" alt="drawing" width="30%"/>](3_BP.md)

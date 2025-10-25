@@ -1,10 +1,10 @@
 
 <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Latha; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Palatino Linotype; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Tunga; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Impact; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Courier New; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Webdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Westminster; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Wingdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>

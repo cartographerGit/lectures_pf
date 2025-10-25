@@ -1,4 +1,7 @@
-
+<html>
+<head>
+</head>
+<body>
 <span style="color: #507AA3; font-family: Corbel Light; font-size: 500%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
@@ -53,8 +56,9 @@ Some normal text, \textit{italic} and \textbf{bold}.
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Эндокринопатии</span> <br/>
 
-
+</body>
 <footer>           
 by cartographer<br/> 
 CC BY-NC-SA 4.0
 </footer>
+<html>

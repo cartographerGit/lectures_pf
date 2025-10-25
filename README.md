@@ -4,7 +4,10 @@
         <td>Год</td>
     </tr>
     <tr>
-        <td>Человек-паук: Возвращение домой</td>
+        <td>{
+  border: 0;
+  border-collapse: collapse;
+}Человек-паук: Возвращение домой</td>
         <td>Spider-Man: Homecoming</td>
         <td>2017</td>
     </tr>

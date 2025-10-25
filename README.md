@@ -11,7 +11,7 @@
 <span style="color: #507AA3; font-family: Westminster; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
 
-<span style="color: #507AA3; font-family: Wingdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+ <font face="Verdana">ПЕРВЫЙ СЕМЕСТР</span></font>  <br/>
 
 
 [<img src="./аллергия обложка.png" alt="drawing" width="30%" border="10" Style="border-color:#507AA3"/>](1_Аllergy.md)    [<img src="./анемии обложка.png" alt="drawing" width="30%"/>](2_blood.md)    [<img src="./обложка BP.png" alt="drawing" width="30%"/>](3_BP.md)

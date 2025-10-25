@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-    <img src="./лого.png" alt="logo" width="100%"//>
+<img src="./лого.png" alt="logo" width="100%"/>
 <span style="color: #507AA3; font-family: Corbel Light; font-size: 500%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>

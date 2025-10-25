@@ -4,12 +4,11 @@
         <td>Название</td>
         <td>Оригинальное название</td>
         <td>Год</td>
-    </tr>
     <tr>
         <td>{
   border: 0;
   border-collapse: collapse;
-}Человек-паук: Возвращение домой</td>
+} Человек-паук: Возвращение домой</td>
         <td>Spider-Man: Homecoming</td>
         <td>2017</td>
     </tr>

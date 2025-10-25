@@ -1,5 +1,8 @@
 
 <head>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
 </head>
 
@@ -9,7 +12,8 @@
 <span style="color: #507AA3; font-family: Impact Light; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Courier New; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
-<span style="color: #507AA3; font-family: Webdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: 'Comfortaa'; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: 'Open Sans'; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
 

@@ -1,8 +1,6 @@
-<html>
-<head>
-</head>
-<body>
-<img src="./лого.png" alt="logo" width="100%"/>
+
+
+
 <span style="color: #507AA3; font-family: Corbel Light; font-size: 500%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: MS Sans Serif; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Georgia; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
@@ -12,26 +10,6 @@
 <span style="color: #507AA3; font-family: Webdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 <span style="color: #507AA3; font-family: Westminster; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
-\documentclass{article}
-\usepackage{fontspec}
-\newfontfamily\comfortaa{Comfortaa}[
-    Extension=.ttf,%
-    Ligatures={TeX,Common},%
-    FontFace={l}{n}{*-Light},%
-    FontFace={l}{it}{Font=*-Light,FakeSlant=0.167},%
-    UprightFont={*-Regular},%
-    ItalicFont={*-Regular},%
-    ItalicFeatures={FakeSlant=0.167},%
-    FontFace={b}{n}{*-Bold},%
-    FontFace={b}{it}{Font=*-Bold,FakeSlant=0.167},%
-   \begin{document}
-
-Some normal text, \textit{italic} and \textbf{bold}.
-
-{\comfortaa Some text in Comfortaa, \textit{italic} and \textbf{bold}.}
-
-Some normal text, \textit{italic} and \textbf{bold}.
-\end{document}
 
 <span style="color: #507AA3; font-family: Wingdings; font-size: 300%;">ПЕРВЫЙ СЕМЕСТР</span>  <br/>
 
@@ -57,9 +35,9 @@ Some normal text, \textit{italic} and \textbf{bold}.
 | [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Эндокринопатии</span> <br/>
 
-</body>
+
 <footer>           
 by cartographer<br/> 
 CC BY-NC-SA 4.0
 </footer>
-<html>
+

@@ -16,6 +16,15 @@
         My picture
       </figcaption>
     </figure>
+
+    <figure>
+      <a href="1_Аllergy.md">
+        <img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%">
+      </a>
+      <figcaption>
+        My picture
+      </figcaption>
+    </figure>
   
 [<img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%"/>](1_Аllergy.md)
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="47%" border="10" />](1_Аllergy.md)<br/>

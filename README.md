@@ -9,18 +9,18 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
-[<img style='margin-left:0.5%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
 
 <br/>
 <br/>
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
-[<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
-[<img style='margin-left:0.5%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)<br/>
+[<img src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)<br/>
 
-[<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
-[<img style='margin-left:0.5%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+[<img src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
 
 
 <br/>

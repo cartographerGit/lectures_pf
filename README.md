@@ -10,8 +10,8 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
-[<img src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
-[<img style='margin-left:2%' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
 
 <br/>
 <br/>
@@ -23,10 +23,10 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
 
 [<img src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
-[<img style='margin-left:2%' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
-[<img src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
-[<img style='margin-left:2%' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img src="./обложкане готово.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
 
 
 <br/>
@@ -40,7 +40,7 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
 [<img src="./обложка анемии.png" alt="drawing" width="48%"/>](2_blood.md)    <br/>
-[<img style='margin-left:2%' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
 
 <br/>
 <br/>

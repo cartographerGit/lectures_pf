@@ -11,12 +11,12 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ИММУНИТЕТ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./обложка гч-1.png" alt="drawing" width="31%"/>](1_Аllergy.md) 
-[<img style='border:2px solid #507AA3; margin-left:2%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md)  
-[<img style='border:2px solid #507AA3; margin-left:2%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md)   <br/> 
+[<img style='border:2px solid #507AA3; margin-left:1%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md)  
+[<img style='border:2px solid #507AA3; margin-left:1%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md)   <br/> 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Гиперчyвствительность I</span>
-<span style="color: #507AA3; margin-left:1%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. I и II</span>
-<span style="color: #507AA3; margin-left:1%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span>
+<span style="color: #507AA3; margin-left:2%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. I и II</span>
+<span style="color: #507AA3; margin-left:2%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span>
 
 <br/> <br/> 
 

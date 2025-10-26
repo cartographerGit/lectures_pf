@@ -1,6 +1,6 @@
 
 <head>
- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
@@ -10,7 +10,7 @@
 
 
 
-[<img src="./аллергия обложка.png" alt="drawing" width="30%" border="10" Style="border-color:#507AA3"/>](1_Аllergy.md)    [<img src="./анемии обложка.png" alt="drawing" width="30%"/>](2_blood.md)    [<img src="./обложка BP.png" alt="drawing" width="30%"/>](3_BP.md)
+[<img src="./аллергия обложка.png" alt="drawing" width="33%" border="10" Style="border-color:#507AA3"/>](1_Аllergy.md)    [<img src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    [<img src="./обложка BP.png" alt="drawing" width="33%" {border: 5px solid #555;}/>](3_BP.md)
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="85%"/>](1_Аllergy.md)      <br/> |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>| [<img src="./анемии обложка.png" alt="drawing" width="85%"/>](2_blood.md)       <br/>
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>

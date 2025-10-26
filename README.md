@@ -10,7 +10,7 @@
 [<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md) <br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ИММУНИТЕТ</span>  <br/>
-[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md)   <br/>
+[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3' style="margin-left:100px" src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md)   <br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
@@ -19,7 +19,6 @@
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="33%"/>](3_BP.md)   <br/>
 
 
-[<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="33%"/>](3_BP.md)
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="85%"/>](1_Аllergy.md)      <br/> |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>| [<img src="./анемии обложка.png" alt="drawing" width="85%"/>](2_blood.md)       <br/>
 | <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>

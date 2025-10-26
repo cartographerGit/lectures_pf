@@ -39,7 +39,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
-[<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
+[<img src="./анемии обложка.png" alt="drawing" width="48%"/>](2_blood.md)    <br/>
 [<img style='margin-left:2%' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 
 <br/>

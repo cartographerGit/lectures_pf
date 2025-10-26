@@ -10,9 +10,7 @@
 [<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md)<br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ИММУНИТЕТ</span>  <br/>
-[<img src="./обложка гч-1.png" alt="drawing" width="32%"/>](1_Аllergy.md) 
-[<img src="./обложка гч-2 и 3.png" alt="drawing" width="32%"/>](1_Аllergy.md)  
-[<img src="./обложка гч-4.png" alt="drawing" width="32%"/>](1_Аllergy.md)   <br/> 
+[<img src="./обложка гч-1.png" alt="drawing" width="31%"/>](1_Аllergy.md) [<img src="./обложка гч-2 и 3.png" alt="drawing" width="31%"/>](1_Аllergy.md)  [<img src="./обложка гч-4.png" alt="drawing" width="31%"/>](1_Аllergy.md)   <br/> 
 
 
 

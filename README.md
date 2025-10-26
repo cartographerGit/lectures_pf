@@ -62,7 +62,7 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ ДЫХАНИЯ</span>  <br/>
-[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]() [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка не готово.png" alt="drawing" width="48%">]() [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

@@ -8,6 +8,12 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ОПУХОЛИ</span>  <br/>
 
+<figure>
+  <img
+    src="./обложка не готово.png" alt="drawing" width="47%" border="10" />
+  <figcaption>An elephant at sunset</figcaption>
+</figure>
+  
 [<img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%" border="10" />](1_Аllergy.md)
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="47%" border="10" />](1_Аllergy.md)<br/>
 

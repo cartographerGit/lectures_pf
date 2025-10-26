@@ -11,7 +11,9 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img src="./обложка не готово.png" alt="drawing" width="48%">]()
-[<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()
+[<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>
+[<img src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка эффекты опухоли надпись.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

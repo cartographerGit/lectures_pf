@@ -53,7 +53,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 [<img src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md)  
-[<img style='margin-left:2%' src="./обложка_HF.png" alt="drawing" width="85%"/>](4_HF.md)
+[<img style='margin-left:2%' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md)
 
 <br/>
 <br/>

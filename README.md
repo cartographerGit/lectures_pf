@@ -16,6 +16,18 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
+[<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+[<img style='margin-left:0.5%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)<br/>
+
+[<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+[<img style='margin-left:0.5%' src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+
+
+<br/>
+<br/>
+
+
+
 
 [<img style='border:2px solid #507AA3' src="./обложка гч-1.png" alt="drawing" width="31%"/>](1_Аllergy.md) 
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 

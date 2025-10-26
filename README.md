@@ -58,6 +58,20 @@
 <br/>
 <br/>
 
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ ДЫХАНИЯ</span>  <br/>
+[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]() [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+
+
 
 
 | [<img src="./аллергия обложка.png" alt="drawing" width="85%"/>](1_Аllergy.md)      <br/> |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>| [<img src="./анемии обложка.png" alt="drawing" width="85%"/>](2_blood.md)       <br/>

@@ -1,3 +1,9 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
 # <span style="color: #507AA3; font-family: Corbel Light;">лекция №1 </span><br><span style="color: #507AA3; font-family: Corbel Light; font-size: 200%">Аллергия</span>
 <br/>
 
@@ -27,7 +33,6 @@
 
 
 
-
 <footer>           
 by cartographer<br/> 
 CC BY-NC-SA 4.0<br/><br/>
@@ -36,5 +41,6 @@ CC BY-NC-SA 4.0<br/><br/>
 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
 </footer>
 
-
+</body>
+</html>
 

@@ -70,7 +70,7 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
-[[<img src="./6_GI-обложка.png" alt="drawing" width="85%"/>](6_GI.md) [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

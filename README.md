@@ -7,11 +7,13 @@
 </head>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ОПУХОЛИ</span>  <br/>
-<figure>[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md)<figcaption>Fig.1 - Trulli, Puglia,Italy</figcaption></figure><br/>
+[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="33%" border="10" />](1_Аllergy.md)<br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ИММУНИТЕТ</span>  <br/>
-[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:1%;' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:1%;' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md)  <br/> <br/>
-
+[<img style='border:2px solid #507AA3' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:1%;' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:1%;' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md)  <br/> 
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 100%;">Аллергии</span>
+<br/>
+<br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 300%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
 

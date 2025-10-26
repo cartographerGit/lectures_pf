@@ -39,7 +39,7 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">КАРДИОЛОГИЯ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="33%"/>](3_BP.md)   <br/>
 
 

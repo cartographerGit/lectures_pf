@@ -6,21 +6,16 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
 </head>
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ОПУХОЛИ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
+[<img src="./обложка гч-1.png" alt="drawing" width="47%">](1_Аllergy.md)
 
-
-  
-[<img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%"/>](1_Аllergy.md)
-[<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="47%" border="10" />](1_Аllergy.md)<br/>
-
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 100%;">Механизмы<br/> канцерогенеза</span>
-<span style="color: #507AA3; margin-left:3.5%; font-family: Comfortaa; font-size: 100%;">Влияние<br/>опухоли</span>
 <br/>
 <br/>
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ИММУНИТЕТ</span>  <br/>
+
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка гч-1.png" alt="drawing" width="31%"/>](1_Аllergy.md) 
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
@@ -40,7 +35,7 @@
 <br/>
 
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>

@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
 </head>
 
+
+
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)
@@ -15,7 +17,11 @@
 <br/>
 
 
+
+
+
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
+
 [<img src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 [<img style='margin-left:2%' src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
@@ -29,26 +35,21 @@
 
 
 
-[<img style='border:2px solid #507AA3' src="./обложка гч-1.png" alt="drawing" width="31%"/>](1_Аllergy.md) 
-[<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
-
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Гиперчyвствительность I</span>
-<span style="color: #507AA3; margin-left:3.5%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. II и III</span>
-<span style="color: #507AA3; margin-left:12%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span>
-
-<br/>  
-
-
-[<img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
-
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Иммунодефициты</span><br/> 
-
-<br/>
-<br/>
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
+
 [<img style='border:2px solid #507AA3' src="./анемии обложка.png" alt="drawing" width="33%"/>](2_blood.md)    <br/>
+[<img style='margin-left:2%' src="./обложка гч-1.png" alt="drawing" width="48%">](1_Аllergy.md)
+
+<br/>
+<br/>
+
+
+
+
+
+
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="33%"/>](3_BP.md)   <br/>

@@ -51,6 +51,7 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
+
 [<img src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img style='margin-left:2%' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md)
 
 <br/>
@@ -62,6 +63,7 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ ДЫХАНИЯ</span>  <br/>
+
 [<img src="./обложка не готово.png" alt="drawing" width="48%">]() [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
 
 <br/>
@@ -70,6 +72,7 @@
 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
+
 [<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
 
 <br/>

@@ -18,7 +18,7 @@
 <span style="color: #507AA3; margin-left:3%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span><br/> <br/> 
 
 
-[<img style='border:2px solid #507AA3' src="./не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
+[<img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Иммунодефициты</span><br/> 
 
 <br/>

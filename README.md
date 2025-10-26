@@ -19,8 +19,8 @@
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%"/>](1_Аllergy.md) <br/> 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Гиперчyвствительность I</span>
-<span style="color: #507AA3; margin-left:4%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. II и III</span>
-<span style="color: #507AA3; margin-left:12%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span>
+<span style="color: #507AA3; margin-left:3.5%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. II и III</span>
+<span style="color: #507AA3; margin-left:11%; font-family: Comfortaa; font-size: 120%;">Гиперчyвств. IV</span>
 
 <br/>  
 

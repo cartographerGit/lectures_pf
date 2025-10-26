@@ -12,7 +12,7 @@
 [<img style='border:2px solid #507AA3; margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md)<br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 100%;">Механизмы<br/> канцерогенеза</span>
-<span style="color: #507AA3; margin-left:3.5%; font-family: Comfortaa; font-size: 100%;">Механизмы канцерогенеза</span>
+<span style="color: #507AA3; margin-left:3.5%; font-family: Comfortaa; font-size: 100%;">Влияние<br/>опухоли</span>
 <br/>
 <br/>
 

@@ -8,7 +8,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 250%;">ОПУХОЛИ</span>  <br/>
 
-[<figure><img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%"><figcaption>My picture</figcaption></figure>](1_Аllergy.md)
+[<figure><img style='border:2px solid #507AA3' src="./обложка не готово.png" alt="drawing" width="47%"> <figcaption>My picture</figcaption></figure>](1_Аllergy.md)
 
 
   

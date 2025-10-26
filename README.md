@@ -10,8 +10,8 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
-[<img src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
-[<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
+[<img src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

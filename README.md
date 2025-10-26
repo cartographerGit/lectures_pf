@@ -15,8 +15,11 @@
 [<img style='border:2px solid #507AA3; margin-left:1%;' src="./аллергия обложка.png" alt="drawing" width="31%" border="10" />](1_Аllergy.md)  <br/> 
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Гиперчувствительность 1</span>
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;margin-left:5%;">Гиперчувствительность 1</span>
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;margin-left:5%;">Гиперчувствительность 1</span>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;margin-left:4%;">Гиперчувствительность 2 и 3 </span>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;margin-left:4%;">Гиперчувствительность 4</span><br/> 
+
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 120%;">Иммунодефициты</span><br/> 
+
 <br/>
 <br/>
 

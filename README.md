@@ -41,7 +41,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
-[<img src="./обложка анемии.png" alt="drawing" width="48%"/>](2_blood.md) 
+[<img src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) 
 [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">](1_Аllergy.md)
 
 <br/>

@@ -25,7 +25,7 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
 
 [<img src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
-[<img style='margin-left:2%' src="./обложка гч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img style='margin-left:2%' src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
 [<img src="./обложка не готово.png" alt="drawing" width="48%">]()<br/>
 [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()

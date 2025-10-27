@@ -57,7 +57,7 @@
 
 [<img src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) <br/>
 
-[<img style='margin-left:2%' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка хсн надпись.png" alt="drawing" width="48%">](4_HF.md)
+[<img src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка хсн надпись.png" alt="drawing" width="48%">](4_HF.md)
 
 <br/>
 <br/>

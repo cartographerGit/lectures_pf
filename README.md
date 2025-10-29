@@ -43,7 +43,7 @@
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img style='margin-left:2%' src="./обложка анем надпись.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
 
-[<img style='margin-left:1%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

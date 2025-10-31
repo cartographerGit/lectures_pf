@@ -10,9 +10,9 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
-[<img src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>
-[<img src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка эффекты опухоли надпись.png" alt="drawing" width="48%">]()
 
 <br/>
@@ -27,8 +27,8 @@
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 [<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
-[<img src="./обложка не готово.png" alt="drawing" width="48%">]()<br/>
-[<img src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 
 
 <br/>
@@ -43,7 +43,7 @@
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img style='margin-left:2%' src="./обложка анем надпись.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
 
-[<img style='margin-left:0.5%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 
 <br/>
 <br/>

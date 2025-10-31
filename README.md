@@ -27,13 +27,13 @@
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 [<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
-[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img src="./обложка надпись гип2и3.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
-[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img src="./обложка надпись гип4.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
-[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img src="./обложка надпись ПИ.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
-[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img src="./обложка надпись ВИ.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
 <br/>
 <br/>

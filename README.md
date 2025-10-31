@@ -26,10 +26,14 @@
 
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 [<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
-
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
-
+[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
+[<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
 
 <br/>
 <br/>
@@ -42,7 +46,6 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img style='margin-left:2%' src="./обложка анем надпись.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
-
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 
 <br/>
@@ -56,7 +59,6 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img style='margin-left:2%' src="./обложка аг надпись.png" alt="drawing" width="48%">](3_BP.md)<br/>
-
 [<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка хсн надпись.png" alt="drawing" width="48%">](4_HF.md)
 
 <br/>

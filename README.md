@@ -59,8 +59,11 @@
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img style='margin-left:2%' src="./обложка аг надпись.png" alt="drawing" width="48%">](3_BP.md)<br/>
+
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img style='margin-left:2%' src="./обложка надпись АГ2.png" alt="drawing" width="48%">](3_BP.md)<br/>
-[<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка надпись хсн1.png" alt="drawing" width="48%">](4_HF.md)
+
+[<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка надпись хсн1.png" alt="drawing" width="48%">](4_HF.md)<br/>
+
 [<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img style='margin-left:2%' src="./обложка надпись хсн2.png" alt="drawing" width="48%">](4_HF.md)
 <br/>
 <br/>

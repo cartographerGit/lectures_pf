@@ -69,7 +69,7 @@
 
 
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
+## <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()[<img src="./обложка надпись липиды.png" alt="drawing" width="48%">](3_BP.md)<br/>
 

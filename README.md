@@ -10,6 +10,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 
+<a name="оглавление"> </a> 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
 [<img src="./оглавление-оп.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-имм.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-кровь.png" alt="drawing" width="33%">](#кровь)<br/> [<img src="./оглавление-кардио.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-дых.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт11.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень11.png" alt="drawing" width="33%">](#печень)[<img src="./оглавление-почки11.png" alt="drawing" width="33%">](#почки)[<img src="./оглавление-сд11.png" alt="drawing" width="33%">](#сд)<br/>[<img src="./оглавление-эндо11.png" alt="drawing" width="33%">](#эндокринология)
 
@@ -17,6 +18,7 @@
 
 <a name="опухоли"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Comfortaa; font-size: 100%;">в оглавление</span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>

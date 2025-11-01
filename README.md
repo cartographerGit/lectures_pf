@@ -8,6 +8,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 
 <a name="оглавление"> </a> 
@@ -18,7 +22,7 @@
 
 <a name="опухоли"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
-[<span style="color: #7cd4b5; font-family: Comfortaa; font-size: 100%;">в оглавление</span>](#оглавление)  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">в оглавление ⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>

@@ -96,9 +96,11 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
 
-[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) <br/>
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>]() [<img src="./обложка надпись горм.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
-[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) <br/>
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) [<img src="./обложка надпись желудок.png" alt="drawing" width="48%">](3_BP.md)<br/>
+
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>]() [<img src="./обложка надпись маль.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
 <br/>
 <br/>

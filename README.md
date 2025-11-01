@@ -22,7 +22,7 @@
 
 <a name="опухоли"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
-[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">в оглавление ⤴ </span>](#оглавление)  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">в оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>

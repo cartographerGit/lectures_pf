@@ -11,7 +11,7 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img src="./оглавление-оп.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-имм.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-кровь.png" alt="drawing" width="33%">](#кровь)<br/> [<img style='border:0px solid #ffffffff' src="./оглавление-кардио.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-дых.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт11.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень11.png" alt="drawing" width="33%">](#печень)[<img src="./оглавление-почки11.png" alt="drawing" width="33%">](#почки)[<img src="./оглавление-сд11.png" alt="drawing" width="33%">](#сд)<br/>[<img src="./оглавление-эндо11.png" alt="drawing" width="33%">](#эндокринология)
+[<img src="./оглавление-оп.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-имм.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-кровь.png" alt="drawing" width="33%">](#кровь)<br/> [<img src="./оглавление-кардио.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-дых.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт11.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень11.png" alt="drawing" width="33%">](#печень)[<img src="./оглавление-почки11.png" alt="drawing" width="33%">](#почки)[<img src="./оглавление-сд11.png" alt="drawing" width="33%">](#сд)<br/>[<img src="./оглавление-эндо11.png" alt="drawing" width="33%">](#эндокринология)
 
 
 

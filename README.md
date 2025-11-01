@@ -15,6 +15,8 @@
 [<img style='border:2px solid #ffffffff' src="./оглавление-5.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-6.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-7.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-8.png" alt="drawing" width="24%">]()<br/>
 [<img style='border:2px solid #ffffffff' src="./оглавление-9.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-10.png" alt="drawing" width="24%">]()
 
+
+<a name="опухоли"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
@@ -29,7 +31,7 @@
 
 
 
-
+<a name="иммунитет"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
@@ -54,7 +56,7 @@
 
 
 
-
+<a name="кровь"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img src="./обложка надпись анемии1.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
@@ -88,7 +90,7 @@
 
 
 
-
+<a name="дыхание"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ДЫХАНИЕ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -100,7 +102,7 @@
 
 
 
-
+<a name="жкт"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]() [<img src="./обложка надпись горм.png" alt="drawing" width="48%">](3_BP.md)<br/>
@@ -116,7 +118,7 @@
 
 
 
-
+<a name="печень"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПЕЧЕНЬ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -128,7 +130,7 @@
 
 
 
-
+<a name="почки"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПОЧКИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -140,7 +142,7 @@
 
 
 
-
+<a name="сд"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">СД</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -152,7 +154,7 @@
 
 
 
-
+<a name="эндокринология"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 180%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>

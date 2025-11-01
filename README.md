@@ -64,7 +64,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 
-[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>[<img src="./обложка надпись липиды.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img src="./обложка аг надпись.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
@@ -82,9 +82,9 @@
 
 
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ ДЫХАНИЯ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ДЫХАНИЕ</span>  <br/>
 
-[<img src="./обложка не готово.png" alt="drawing" width="48%">]() [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 
 <br/>
 <br/>
@@ -96,7 +96,7 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
 
-[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) <br/>
 
 <br/>
 <br/>
@@ -108,31 +108,48 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПЕЧЕНЬ</span>  <br/>
 
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+
+<br/>
+<br/>
+<br/>
 
 
 
 
 
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПОЧКИ</span>  <br/>
+
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+
+<br/>
+<br/>
+<br/>
 
 
-| [<img src="./аллергия обложка.png" alt="drawing" width="85%"/>](1_Аllergy.md)      <br/> |<span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Аллергия</span>  <br/>| [<img src="./анемии обложка.png" alt="drawing" width="85%"/>](2_blood.md)       <br/>
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Анемии</span> <br/>
-| [<img src="./обложка BP.png" alt="drawing" width="85%"/>](3_BP.md)     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">АГ</span> <br/>
-| [<img src="./обложка_HF.png" alt="drawing" width="85%"/>](4_HF.md)     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">ХСН (не закончена)</span> <br/> 
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Дыхание</span> <br/>
-| [<img src="./6_GI-обложка.png" alt="drawing" width="85%"/>](6_GI.md)     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Желудок (не закончена)</span> <br/>
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Печень</span> <br/>
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Почки</span> <br/>
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Сахарный диабет</span> <br/>
-| [<img src="./не готово.png" alt="drawing" width="85%"/>]()     <br/> 
-| <span style="color: #507AA3; font-family: Corbel Light; font-size: 300%;">Эндокринопатии</span> <br/>
+
+
+
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">СД</span>  <br/>
+
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
+
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+
+<br/>
+<br/>
+<br/>
+
 
 
 <footer>           

@@ -64,6 +64,8 @@
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
 
+[<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
+
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img src="./обложка аг надпись.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img src="./обложка надпись АГ2.png" alt="drawing" width="48%">](3_BP.md)<br/>
@@ -71,6 +73,7 @@
 [<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img src="./обложка надпись хсн1.png" alt="drawing" width="48%">](4_HF.md)<br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img src="./обложка надпись хсн2.png" alt="drawing" width="48%">](4_HF.md)
+
 <br/>
 <br/>
 <br/>
@@ -88,6 +91,9 @@
 <br/>
 
 
+
+
+
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
 
 [<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) [<img style='margin-left:2%' src="./обложка не готово.png" alt="drawing" width="48%">]()
@@ -95,6 +101,13 @@
 <br/>
 <br/>
 <br/>
+
+
+
+
+
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПЕЧЕНЬ</span>  <br/>
+
 
 
 

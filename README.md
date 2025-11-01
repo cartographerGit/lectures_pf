@@ -11,7 +11,7 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img src="./оглавление-111.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-222.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-333.png" alt="drawing" width="33%">](#кровь)<br/>[<img style='border:0px solid #ffffffff' src="./оглавление-444.jpg" alt="drawing" width="33%">](#кардиология)
+[<img src="./оглавление-111.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-222.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-333.png" alt="drawing" width="33%">](#кровь)<br/>[<img style='border:0px solid #ffffffff' src="./оглавление-444.png" alt="drawing" width="33%">](#кардиология)
 
 
 

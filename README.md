@@ -98,6 +98,8 @@
 
 [<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) <br/>
 
+[<img src="./6_GI-обложка.png" alt="drawing" width="48%"/>](6_GI.md) <br/>
+
 <br/>
 <br/>
 <br/>
@@ -142,7 +144,7 @@
 
 
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 220%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 

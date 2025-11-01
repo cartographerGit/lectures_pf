@@ -4,9 +4,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size:310%;">Оглавление</span>  <br/>
+<span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 

@@ -11,7 +11,7 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img src="./оглавление-111.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-222.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-333.png" alt="drawing" width="33%">](#кровь)<br/> [<img style='border:0px solid #ffffffff' src="./оглавление-444.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-555.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень.png" alt="drawing" width="33%">](#печень) [<img src="./оглавление-почки.png" alt="drawing" width="33%">](#почки) [<img src="./оглавление-сд.png" alt="drawing" width="33%">](#сд)<br/>  [<img src="./оглавление-эндо.png" alt="drawing" width="33%">](#эндо)
+[<img src="./оглавление-111.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-222.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-333.png" alt="drawing" width="33%">](#кровь)<br/> [<img style='border:0px solid #ffffffff' src="./оглавление-444.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-555.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень.png" alt="drawing" width="33%">](#печень) [<img src="./оглавление-почки.png" alt="drawing" width="33%">](#почки) [<img src="./оглавление-сд.png" alt="drawing" width="33%">](#сд)<br/>  [<img src="./оглавление-эндо.png" alt="drawing" width="33%">](#эндокринология)
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<a name="дыхание"> </a> 
+<a name="дыхание"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ДЫХАНИЕ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -101,7 +101,7 @@
 
 
 
-<a name="жкт"> </a> 
+<a name="жкт"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]() [<img src="./обложка надпись горм.png" alt="drawing" width="48%">](3_BP.md)<br/>
@@ -117,7 +117,7 @@
 
 
 
-<a name="печень"> </a> 
+<a name="печень"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПЕЧЕНЬ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -129,7 +129,7 @@
 
 
 
-<a name="почки"> </a> 
+<a name="почки"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПОЧКИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
@@ -141,7 +141,7 @@
 
 
 
-<a name="сд"> </a> 
+<a name="сд"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">СД</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>

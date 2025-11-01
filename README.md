@@ -11,12 +11,11 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img style='border:2px solid #ffffffff' src="./оглавление-1.png" alt="drawing" width="24%">](#кардиология)[<img style='border:2px solid #ffffffff' src="./оглавление-2.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-3.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-4.png" alt="drawing" width="24%">]()<br/>
-[<img style='border:2px solid #ffffffff' src="./оглавление-5.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-6.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-7.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-8.png" alt="drawing" width="24%">]()<br/>
-[<img style='border:2px solid #ffffffff' src="./оглавление-9.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-10.png" alt="drawing" width="24%">]()
+[<img style='border:2px solid #ffffffff' src="./оглавление-11.png" alt="drawing" width="24%">](#опухоли)[<img style='border:2px solid #ffffffff' src="./оглавление-22.png" alt="drawing" width="24%">](#иммунитет)[<img style='border:2px solid #ffffffff' src="./оглавление-33.png" alt="drawing" width="24%">](#кровь)<br/>[<img style='border:2px solid #ffffffff' src="./оглавление-44.png" alt="drawing" width="24%">](#кардиология)
 
 
-<a name="опухоли"> </a> 
+
+<a name="опухоли"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
@@ -31,7 +30,7 @@
 
 
 
-<a name="иммунитет"> </a> 
+<a name="иммунитет"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
@@ -56,7 +55,7 @@
 
 
 
-<a name="кровь"> </a> 
+<a name="кровь"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img src="./обложка надпись анемии1.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
@@ -70,7 +69,7 @@
 
 
 
-<a name="кардиология"> </a> 
+<a name="кардиология"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span> <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()[<img src="./обложка надпись липиды.png" alt="drawing" width="48%">](3_BP.md)<br/>

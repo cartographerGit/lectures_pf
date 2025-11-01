@@ -11,7 +11,7 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img style='border:2px solid #ffffffff' src="./оглавление-1.png" alt="drawing" width="24%">](###кардиология)[<img style='border:2px solid #ffffffff' src="./оглавление-2.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-3.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-4.png" alt="drawing" width="24%">]()<br/>
+[<img style='border:2px solid #ffffffff' src="./оглавление-1.png" alt="drawing" width="24%">](#кардиология)[<img style='border:2px solid #ffffffff' src="./оглавление-2.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-3.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-4.png" alt="drawing" width="24%">]()<br/>
 [<img style='border:2px solid #ffffffff' src="./оглавление-5.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-6.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-7.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-8.png" alt="drawing" width="24%">]()<br/>
 [<img style='border:2px solid #ffffffff' src="./оглавление-9.png" alt="drawing" width="24%">]()[<img style='border:2px solid #ffffffff' src="./оглавление-10.png" alt="drawing" width="24%">]()
 
@@ -69,7 +69,7 @@
 
 
 
-### <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span>  <br/>
+<a name="кардиология"><span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span> </a> <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()[<img src="./обложка надпись липиды.png" alt="drawing" width="48%">](3_BP.md)<br/>
 

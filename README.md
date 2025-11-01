@@ -15,14 +15,14 @@
 </head>
 
 <a name="оглавление"> </a> 
-<span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
+<span style="color: #507AA3; font-family: Raleway; font-size:150%;">оглавление</span>  <br/>
 [<img src="./оглавление-оп.png" alt="drawing" width="33%">](#опухоли)[<img src="./оглавление-имм.png" alt="drawing" width="33%">](#иммунитет)[<img src="./оглавление-кровь.png" alt="drawing" width="33%">](#кровь)<br/> [<img src="./оглавление-кардио.png" alt="drawing" width="33%">](#кардиология)[<img src="./оглавление-дых.png" alt="drawing" width="33%">](#дыхание)[<img src="./оглавление-жкт11.png" alt="drawing" width="33%">](#жкт)<br/> [<img src="./оглавление-печень11.png" alt="drawing" width="33%">](#печень)[<img src="./оглавление-почки11.png" alt="drawing" width="33%">](#почки)[<img src="./оглавление-сд11.png" alt="drawing" width="33%">](#сд)<br/>[<img src="./оглавление-эндо11.png" alt="drawing" width="33%">](#эндокринология)
-
+ <br/> <br/> <br/> <br/> <br/>
 
 
 <a name="опухоли"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
-[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">в оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()
 [<img src="./обложка механизмы канцерогенеза надпись.png" alt="drawing" width="48%">]()<br/>
@@ -38,6 +38,7 @@
 
 <a name="иммунитет"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ИММУНИТЕТ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка гипер-1.png" alt="drawing" width="48%">](1_Аllergy.md)
 [<img src="./обложка гиперч-1 надпись.png" alt="drawing" width="48%">](1_Аllergy.md)<br/>
@@ -63,6 +64,7 @@
 
 <a name="кровь"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПАТОЛОГИЯ КРОВИ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка анем.png" alt="drawing" width="48%"/>](2_blood.md) [<img src="./обложка надпись анемии1.png" alt="drawing" width="48%">](2_blood.md.md)<br/> 
 
@@ -77,6 +79,7 @@
 
 <a name="кардиология"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">КАРДИОЛОГИЯ</span> <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()[<img src="./обложка надпись липиды.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
@@ -97,6 +100,7 @@
 
 <a name="дыхание"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ДЫХАНИЕ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 
@@ -109,6 +113,7 @@
 
 <a name="жкт"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ЖКТ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]() [<img src="./обложка надпись горм.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
@@ -125,6 +130,7 @@
 
 <a name="печень"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПЕЧЕНЬ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 
@@ -137,6 +143,7 @@
 
 <a name="почки"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ПОЧКИ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 
@@ -149,6 +156,7 @@
 
 <a name="сд"> </a> <br/>
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">СД</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 
@@ -161,6 +169,7 @@
 
 <a name="эндокринология"> </a> 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 180%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
+[<span style="color: #7cd4b5; font-family: Montserrat; font-size: 100%;">оглавление</span><span style="color: #7cd4b5; font-family: Montserrat; font-size: 150%;">⤴ </span>](#оглавление)  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 

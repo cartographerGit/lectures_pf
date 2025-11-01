@@ -11,9 +11,9 @@
 </head>
 
 <span style="color: #507AA3; font-family: Raleway; font-size:310%;">Оглавление</span>  <br/>
-[<img style='border:2px solid #507AA3' src="./оглавление-1.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-2.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-3.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-4.png" alt="drawing" width="48%">]()<br/>
-[<img style='border:2px solid #507AA3' src="./оглавление-5.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-6.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-7.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-8.png" alt="drawing" width="48%">]()<br/>
-[<img style='border:2px solid #507AA3' src="./оглавление-9.png" alt="drawing" width="48%">]()[<img style='border:2px solid #507AA3' src="./оглавление-10.png" alt="drawing" width="48%">]()
+[<img style='border:2px solid #507AA3' src="./оглавление-1.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-2.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-3.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-4.png" alt="drawing" width="24%">]()<br/>
+[<img style='border:2px solid #507AA3' src="./оглавление-5.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-6.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-7.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-8.png" alt="drawing" width="24%">]()<br/>
+[<img style='border:2px solid #507AA3' src="./оглавление-9.png" alt="drawing" width="24%">]()[<img style='border:2px solid #507AA3' src="./оглавление-10.png" alt="drawing" width="24%">]()
 
 <span style="color: #507AA3; font-family: Comfortaa; font-size: 240%;">ОПУХОЛИ</span>  <br/>
 

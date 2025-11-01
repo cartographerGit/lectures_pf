@@ -70,7 +70,7 @@
 
 [<img style='border:2px solid #507AA3' src="./обложка BP.png" alt="drawing" width="48%"/>](3_BP.md) [<img src="./обложка надпись АГ2.png" alt="drawing" width="48%">](3_BP.md)<br/>
 
-[<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img src="./обложка надпись хсн1.png" alt="drawing" width="48%">](4_HF.md)<br/>
+[<img style='border:2px solid #507AA3' src="./обложка хсн1.png" alt="drawing" width="48%"/>](4_HF.md) [<img src="./обложка надпись хсн1.png" alt="drawing" width="48%">](4_HF.md)<br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка_HF.png" alt="drawing" width="48%"/>](4_HF.md) [<img src="./обложка надпись хсн2.png" alt="drawing" width="48%">](4_HF.md)
 

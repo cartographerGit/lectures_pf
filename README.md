@@ -146,7 +146,7 @@
 
 
 
-<span style="color: #507AA3; font-family: Comfortaa; font-size: 220%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
+<span style="color: #507AA3; font-family: Comfortaa; font-size: 200%;">ЭНДОКРИНОЛОГИЯ</span>  <br/>
 
 [<img style='border:2px solid #507AA3' src="./обложка еще не готово.png" alt="drawing" width="48%">]()<br/>
 

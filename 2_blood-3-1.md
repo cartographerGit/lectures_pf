@@ -2,21 +2,34 @@
 
 
 
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flashcards</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Simple Flashcard</title>
 </head>
 <body>
-    <div class="flashcard-container">
-        <div class="flashcard" id="flashcard">
-            <div class="front" id="question">Question goes here</div>
-            <div class="back" id="answer">Answer goes here</div>
-        </div>
-        <button id="flip-button">Flip Card</button>
+
+    <div id="flashcard" style="border:1px solid black; padding:20px; width:300px; text-align:center;">
+        <div id="question">What is the capital of France?</div>
+        <div id="answer" style="display:none;">Paris</div>
     </div>
-    <script src="script.js"></script>
+    
+    <button onclick="toggleAnswer()">Show Answer</button>
+
+    <script>
+        function toggleAnswer() {
+            var answerDiv = document.getElementById('answer');
+            var button = document.querySelector('button');
+
+            if (answerDiv.style.display === 'none') {
+                answerDiv.style.display = 'block';
+                button.textContent = 'Hide Answer';
+            } else {
+                answerDiv.style.display = 'none';
+                button.textContent = 'Show Answer';
+            }
+        }
+    </script>
+
 </body>
 </html>

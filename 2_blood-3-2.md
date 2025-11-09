@@ -7,7 +7,7 @@
 
     <div id="flashcard" style="border:1px solid black; padding:20px; width:300px; text-align:center;">
         <div id="question">What is the capital of France?</div>
-        <div id="answer" style="display:none;">Paris</div>
+        <div id="answer" style="display:none;"><img src="./оглавление-кардио.png" alt="drawing" width="33%"></div>
     </div>
     
     <button onclick="toggleAnswer()">Show Answer</button>

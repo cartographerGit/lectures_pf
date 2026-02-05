@@ -32,3 +32,24 @@
 
   </div>
 </div>
+
+
+
+<!-- Контейнер на 50% ширины экрана -->
+<div style="perspective: 1000px; width: 50%; height: 250px; display: inline-block; user-select: none; margin: 10px auto;">
+  <div onclick="this.style.transform = (this.style.transform === 'rotateY(180deg)' ? 'rotateY(0deg)' : 'rotateY(180deg)')" 
+       style="position: relative; width: 100%; height: 100%; transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1); transform-style: preserve-3d; cursor: pointer;">
+    
+    <!-- ЛИЦЕВАЯ СТОРОНА -->
+    <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #ffffff; display: flex; align-items: center; justify-content: center; border: 2px solid #2ecc71; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); font-family: sans-serif; padding: 20px; box-sizing: border-box; text-align: center;">
+      <span style="font-size: 1.5rem; color: #333;">Нажми, чтобы увидеть ответ</span>
+    </div>
+
+    <!-- ОБРАТНАЯ СТОРОНА -->
+    <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #2ecc71; color: white; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 15px; font-family: sans-serif; padding: 20px; box-sizing: border-box; text-align: center;">
+      <span style="font-size: 1.5rem;">Это правильный ответ! ✅</span>
+    </div>
+
+  </div>
+</div>
+

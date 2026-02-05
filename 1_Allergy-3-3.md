@@ -161,3 +161,74 @@ function addToEnd(questionId) {
 }
 </script>
 
+
+
+
+
+
+
+
+
+
+
+
+<!-- Контейнер с фиксированной или адаптивной высотой -->
+<div style="display: flex; width: 100%; height: 200px; gap: 10px; margin-bottom: 20px; box-sizing: border-box; align-items: stretch;">
+  
+  <!-- КАРТОЧКА (80%) -->
+  <div style="perspective: 1000px; flex: 0 0 80%; user-select: none;">
+    <div id="card1" onclick="this.style.transform = (this.style.transform === 'rotateY(180deg)' ? 'rotateY(0deg)' : 'rotateY(180deg)')" 
+         style="position: relative; width: 100%; height: 100%; transition: transform 0.6s; transform-style: preserve-3d; cursor: pointer;">
+      
+      <!-- Лицевая сторона -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #fff; display: flex; align-items: center; justify-content: center; border: 2px solid #3498db; border-radius: 12px; font-family: sans-serif; box-sizing: border-box; padding: 20px; text-align: center;">
+        <b id="q1" style="font-size: 1.1rem;">Вопрос: Что такое семантический HTML?</b>
+      </div>
+
+      <!-- Обратная сторона -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #3498db; color: white; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-family: sans-serif; box-sizing: border-box; padding: 20px; text-align: center;">
+        <span>Использование тегов по назначению (например, &lt;header&gt;, &lt;footer&gt;).</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- КНОПКА (20%) — Высота наследуется от родителя автоматически -->
+  <button onclick="addToEnd('q1', this)" style="flex: 1; border: none; border-radius: 12px; background: #2ecc71; color: white; cursor: pointer; font-weight: bold; font-family: sans-serif; font-size: 1rem; transition: all 0.3s ease; display: flex; align-items: center; justify-content: center; padding: 10px; text-align: center;">
+    ДОБАВИТЬ В СПИСОК
+  </button>
+</div>
+
+<!-- СЕКЦИЯ В КОНЦЕ СТРАНИЦЫ -->
+<div style="margin-top: 50px; padding: 20px; font-family: sans-serif; background: #f9f9f9; border-radius: 12px;">
+  <h4 style="margin-top: 0;">Ваши закладки:</h4>
+  <ul id="selected-list" style="padding-left: 20px;"></ul>
+</div>
+
+<script>
+function addToEnd(questionId, btn) {
+  const text = document.getElementById(questionId).innerText;
+  const list = document.getElementById('selected-list');
+  
+  // Проверка на дубликаты
+  const existing = Array.from(list.children).some(li => li.innerText === text);
+  if (existing) {
+    btn.style.background = "#e74c3c";
+    btn.innerText = "УЖЕ ЕСТЬ";
+    setTimeout(() => { btn.style.background = "#2ecc71"; btn.innerText = "ДОБАВИТЬ В СПИСОК"; }, 1000);
+    return;
+  }
+
+  const li = document.createElement('li');
+  li.innerText = text;
+  li.style.marginBottom = "8px";
+  list.appendChild(li);
+  
+  // Анимация успеха на кнопке
+  btn.style.background = "#27ae60";
+  btn.innerText = "ДОБАВЛЕНО!";
+  setTimeout(() => { 
+    btn.style.background = "#2ecc71"; 
+    btn.innerText = "ДОБАВИТЬ В СПИСОК"; 
+  }, 1000);
+}
+</script>

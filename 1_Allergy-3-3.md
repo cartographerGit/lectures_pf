@@ -2,7 +2,7 @@
 <div style="font-family: sans-serif; padding: 20px; line-height: 1.6; color: #333;">
   <p style="font-size: 1.1rem; color: #1b1b1b;">
    👆 Нажимайте на карточку, чтобы увидеть ответ <br><br>  
-  🧠Если вопрос вызвал затруднение, нажмите на кнопку "для повторения" под карточкой <br> <br>
+  🧠Если вопрос вызвал затруднение, нажмите на кнопку «для повторения» под карточкой <br> <br>
     📖Список затруднительных вопросов появится в самом низу страницы<br> <br>  
     📸 Можно заскринить его.
   </p>
@@ -30,7 +30,7 @@
       <div class="side back">Яблоко</div>
     </div>
   </div>
-  <button class="add-btn" onclick="addToEnd('q1', this)">ДОБАВИТЬ В СПИСОК</button>
+  <button class="add-btn" onclick="addToEnd('q1', this)">ДЛЯ ПОВТОРЕНИЯ</button>
 </div>
 
 <!-- КАРТОЧКА №2 -->
@@ -43,7 +43,7 @@
       <div class="side back">Апельсин</div>
     </div>
   </div>
-  <button class="add-btn" onclick="addToEnd('q2', this)">ДОБАВИТЬ В СПИСОК</button>
+  <button class="add-btn" onclick="addToEnd('q2', this)">ДЛЯ ПОВТОРЕНИЯ</button>
 </div>
 
 <!-- КАРТОЧКА №3 -->
@@ -56,7 +56,7 @@
       <div class="side back">Хлеб</div>
     </div>
   </div>
-  <button class="add-btn" onclick="addToEnd('q3', this)">ДОБАВИТЬ В СПИСОК</button>
+  <button class="add-btn" onclick="addToEnd('q3', this)">ДЛЯ ПОВТОРЕНИЯ</button>
 </div>
 
 <!-- ИТОГОВЫЙ СПИСОК -->

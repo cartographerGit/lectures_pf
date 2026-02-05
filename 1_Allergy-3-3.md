@@ -59,7 +59,7 @@
 </div>
 
 <!-- ИТОГОВЫЙ СПИСОК -->
-<div style="margin-top: 50px; padding: 20px; font-family: sans-serif; border-top: 3px solid #3498db; background: #f0f7ff;">
+<div style="margin-top: 50px; padding: 20px; font-family: sans-serif; border-top: 3px solid #382D8C; background: #C2BCEB;">
   <h3>Затруднительные вопросы 🧠🧠🧠 </b>тема: Аллергия-1</b>(можно заскринить)</h3>
   <ul id="selected-list" style="font-size: 1.1rem; line-height: 2;"></ul>
 </div>
@@ -103,7 +103,7 @@ function addToEnd(questionId, btn) {
     // Если уже есть в списке
     btn.innerText = "УЖЕ В СПИСКЕ";
     btn.style.background = "#938AD7";
-    setTimeout(() => { btn.innerText = "ДОБАВИТЬ В СПИСОК"; btn.style.background = "#2ecc71"; }, 800);
+    setTimeout(() => { btn.innerText = "ДОБАВИТЬ В СПИСОК"; btn.style.background = "#938AD7"; }, 800);
   }
 }
 </script>

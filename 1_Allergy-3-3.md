@@ -25,7 +25,7 @@
 
 <!-- СПИСОК В КОНЦЕ СТРАНИЦЫ -->
 <div style="margin-top: 50px; padding: 20px; font-family: sans-serif; border-top: 2px solid #eee;">
-  <h3>Вопросы, которые следует повторить<br>(сделать скрин):</h3>
+  <h3>Вопросы, которые следует повторить 🧠🧠🧠<br>(можно сделать скрин):</h3>
   <ul id="selected-list"></ul>
 </div>
 

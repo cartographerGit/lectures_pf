@@ -61,7 +61,7 @@
 
 <!-- ИТОГОВЫЙ СПИСОК -->
 <div style="margin-top: 50px; padding: 20px; font-family: sans-serif; border-top: 3px solid #3498db; background: #f0f7ff;">
-  <h3>Выбранные вопросы для изучения:</h3>
+  <h3>тема: Аллергия-1 [🧠📖 📸]</h3>
   <ul id="selected-list" style="font-size: 1.1rem; line-height: 2;"></ul>
 </div>
 

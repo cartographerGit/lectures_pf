@@ -3,9 +3,9 @@
   <p style="font-size: 1.3rem; color: #1b1b1b;">
    👆 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">
 Нажимайте на карточку, чтобы увидеть ответ <br><br>  
-  🧠 Если вопрос вызвал затруднение, нажмите на кнопку «для повторения» под карточкой <br> <br>
-    📖 Список затруднительных вопросов появится в самом низу страницы<br> <br>  
-    📸 Можно заскринить его
+  🧠 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">Если вопрос вызвал затруднение, нажмите на кнопку «для повторения» под карточкой <br> <br>
+    📖 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">Список затруднительных вопросов появится в самом низу страницы<br> <br>  
+    📸 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">Можно заскринить его
   </p>
 </div>
 

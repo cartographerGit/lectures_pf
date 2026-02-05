@@ -17,7 +17,7 @@
   .side { position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; align-items: center; justify-content: center; border-radius: 15px; padding: 20px; box-sizing: border-box; text-align: center; font-size: 1.2rem; border: 2px solid #3498db; }
   .back { background: #3498db; color: white; transform: rotateY(180deg); }
   .front { background: #fff; }
-  .add-btn { width: 100%; padding: 18px; border: none; border-radius: 12px; background: #2ecc71; color: white; cursor: pointer; font-weight: bold; font-size: 1rem; transition: 0.3s; }
+  .add-btn { width: 100%; padding: 18px; border: none; border-radius: 12px; background: #7cd4b5; color: white; cursor: pointer; font-weight: bold; font-size: 1rem; transition: 0.3s; }
 </style>
 
 <!-- КАРТОЧКА №1 -->

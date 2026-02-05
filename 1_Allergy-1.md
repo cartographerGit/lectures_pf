@@ -13,7 +13,7 @@
 
     <br>
 
-    <iframe src="https://ВАША_ССЫЛКА" width="960" height="569" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKlkpGbxKw6qNJtTmt6FvCpkdtvyX8AX08dqDNq10OgRgbmomTs8U4Xha2u2aYKkIcbSC6e2kPXjPC/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </body>
 </html>

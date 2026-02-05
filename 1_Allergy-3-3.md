@@ -1,8 +1,8 @@
 <!-- ТЕКСТ НАВЕРХУ СТРАНИЦЫ -->
 <div style="font-family: sans-serif; padding: 20px; line-height: 1.6; color: #333;">
-  <h1 style="color: #2c3e50;">Мои обучающие карточки</h1>
-  <p style="font-size: 1.1rem; color: #7cd4b5;">
-    Нажимайте на карточку, чтобы увидеть ответ. Если вы хотите сохранить вопрос для 
+  /*<h1 style="color: #2c3e50;">Мои обучающие карточки</h1>*/
+  <p style="font-size: 1.1rem; color: #F2F2F2;">
+    Нажимайте на карточку, чтобы увидеть ответ. </b> вы хотите сохранить вопрос для 
     дальнейшего изучения, нажмите кнопку <b>«Добавить в список»</b> под карточкой. 
     Ваш персональный список появится в самом низу страницы.
   </p>
@@ -87,15 +87,15 @@ function addToEnd(questionId, btn) {
     // Визуальный эффект успеха
     const originalText = btn.innerText;
     btn.innerText = "ДОБАВЛЕНО ✓";
-    btn.style.background = "#27ae60";
+    btn.style.background = "#7cd4b5";
     setTimeout(() => { 
       btn.innerText = originalText; 
-      btn.style.background = "#2ecc71"; 
+      btn.style.background = "#7cd4b5"; 
     }, 800);
   } else {
     // Если уже есть в списке
     btn.innerText = "УЖЕ В СПИСКЕ";
-    btn.style.background = "#e67e22";
+    btn.style.background = "#938AD7";
     setTimeout(() => { btn.innerText = "ДОБАВИТЬ В СПИСОК"; btn.style.background = "#2ecc71"; }, 800);
   }
 }

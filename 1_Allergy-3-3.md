@@ -61,7 +61,7 @@
 
 <!-- ИТОГОВЫЙ СПИСОК -->
 <div style="margin-top: 50px; padding: 20px; font-family: sans-serif; border-top: 3px solid #382D8C; background: #EBEAF6;">
-  <h3>тема: Аллергия-1<br>Затруднительные вопросы 🧠🧠🧠<br>(можно заскринить)</h3>
+  <h3> тема: Аллергия-1<br>📖Затруднительные вопросы🧠<br>(можно заскринить)</h3>
   <ul id="selected-list" style="font-size: 1.1rem; line-height: 2;"></ul>
 </div>
 

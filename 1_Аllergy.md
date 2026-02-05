@@ -3,7 +3,6 @@
 <br/>
 
 [<span style="color: #81AAD1; font-family: Impact;font-size:7vw">➫ Смотреть презентацию</span>](1_Allergy-1.md)<br/>
-<a href="1_Allergy-1.md">Смотреть презентацию</a>
 <br/>
 <br/>
 <br/>
@@ -36,7 +35,4 @@ CC BY-NC-SA 4.0<br/><br/>
 при создании страницы использовались :
 <a href="https://www.flaticon.com/free-animated-icons/critical-thinking" title="critical thinking animated icons">Critical thinking animated icons created by Freepik - Flaticon</a>
 </footer>
-
-</body>
-</html>
 

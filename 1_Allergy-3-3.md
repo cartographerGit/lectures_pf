@@ -100,3 +100,64 @@ function addToEnd(questionId) {
   list.appendChild(li);
 }
 </script>
+
+
+
+
+
+<!-- Контейнер-строка с фиксированной высотой -->
+<div style="display: flex; width: 100%; height: 200px; gap: 10px; margin-bottom: 30px; box-sizing: border-box;">
+  
+  <!-- КАРТОЧКА (80%) -->
+  <div style="perspective: 1000px; width: 80%; height: 100%; user-select: none;">
+    <div id="card1" onclick="this.style.transform = (this.style.transform === 'rotateY(180deg)' ? 'rotateY(0deg)' : 'rotateY(180deg)')" 
+         style="position: relative; width: 100%; height: 100%; transition: transform 0.6s; transform-style: preserve-3d; cursor: pointer;">
+      
+      <!-- Лицевая сторона -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #fff; display: flex; align-items: center; justify-content: center; border: 2px solid #3498db; border-radius: 12px; font-family: sans-serif; box-sizing: border-box; padding: 20px; text-align: center;">
+        <b id="q1" style="font-size: 1.2rem;">Вопрос: Как работает CSS Flexbox?</b>
+      </div>
+
+      <!-- Обратная сторона -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: #3498db; color: white; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-family: sans-serif; box-sizing: border-box; padding: 20px; text-align: center;">
+        <span>Это способ выравнивания элементов в контейнере!</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- КНОПКА (20%) -->
+  <button onclick="addToEnd('q1')" style="width: 20%; height: 100%; border: none; border-radius: 12px; background: #2ecc71; color: white; cursor: pointer; font-weight: bold; font-family: sans-serif; font-size: 1rem; transition: background 0.3s;">
+    СОХРАНИТЬ
+  </button>
+</div>
+
+<!-- СПИСОК В КОНЦЕ СТРАНИЦЫ -->
+<div id="footer-section" style="margin-top: 100px; padding: 20px; font-family: sans-serif; border-top: 2px dashed #ccc;">
+  <h3 style="color: #333;">Выбранные вопросы:</h3>
+  <ul id="selected-list" style="list-style-type: square; color: #555; line-height: 1.8;">
+    <!-- Сюда добавляются вопросы -->
+  </ul>
+</div>
+
+<script>
+function addToEnd(questionId) {
+  const text = document.getElementById(questionId).innerText;
+  const list = document.getElementById('selected-list');
+  
+  // Простая проверка на дубликаты
+  const items = list.getElementsByTagName('li');
+  for (let i = 0; i < items.length; i++) {
+    if (items[i].innerText === text) return; 
+  }
+
+  const li = document.createElement('li');
+  li.innerText = text;
+  li.style.padding = "5px 0";
+  list.appendChild(li);
+  
+  // Визуальный отклик кнопки
+  event.target.style.background = "#27ae60";
+  setTimeout(() => { event.target.style.background = "#2ecc71"; }, 300);
+}
+</script>
+

@@ -14,7 +14,7 @@
   .card-container { width: 100%; margin-bottom: 40px; font-family: sans-serif; }
   .flip-card { perspective: 1000px; width: 100%; height: 30vh; min-height: 180px; user-select: none; margin-bottom: 10px; }
   .flip-inner { position: relative; width: 100%; height: 100%; transition: transform 0.6s; transform-style: preserve-3d; cursor: pointer; }
-  .side { position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; align-items: center; justify-content: center; border-radius: 15px; padding: 20px; box-sizing: border-box; text-align: center; font-size: 1.2rem; border: 2px solid #938AD7; }
+  .side { position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; align-items: center; justify-content: center; border-radius: 15px; padding: 20px; box-sizing: border-box; text-align:  left; font-size: 1.3rem; border: 2px solid #938AD7; }
   .back { background: #938AD7; color: white; transform: rotateY(180deg); }
   .front { background: #fff; }
   .add-btn { width: 100%; padding: 18px; border: none; border-radius: 12px; background: #7cd4b5; color: white; cursor: pointer; font-weight: bold; font-size: 1rem; transition: 0.3s; }
@@ -27,7 +27,7 @@
       <div class="side front">
         <b id="q1">Три стадии аллергии</b>
       </div>
-      <div class="side back">1. Иммунологическая <br> 2. Пахтохимическая<br> 3. Патофизиолоогическая </div>
+      <div class="side back">1. Иммунологическая <br> 2. Патохимическая<br> 3. Патофизиолоогическая </div>
     </div>
   </div>
   <button class="add-btn" onclick="addToEnd('q1', this)">ДЛЯ ПОВТОРЕНИЯ</button>

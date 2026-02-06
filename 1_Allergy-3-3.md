@@ -1,7 +1,7 @@
 <!-- ТЕКСТ НАВЕРХУ СТРАНИЦЫ -->
 <div style="font-family: sans-serif; padding: 20px; line-height: 1.6; color: #333;">
   <p style="font-size: 1.3rem; color: #1b1b1b;">
-   <img src="https://cdn-icons-gif.flaticon.com" width="50" height="50" alt="tap"> <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">
+   <img src="https://cdn-icons-mp4.flaticon.com/512/11681/11681428.mp4" width="50" height="50" alt="tap"> <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">
 Нажимайте на карточку, чтобы увидеть ответ <br><br>  
   🧠 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">Если вопрос вызвал затруднение, нажмите на кнопку «для повторения» под карточкой <br> <br>
     📖 <hr style="border: 0; height: 2px; background: #938AD7; margin: 2px 0;">Список затруднительных вопросов появится в самом низу страницы<br> <br>  

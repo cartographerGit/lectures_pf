@@ -41,7 +41,7 @@
       <div class="side front">
         <b id="q2">Как переводится "Orange"?</b>
       </div>
-      <div class="side back">Апельсин</div>
+      <div class="side back"><img src="./critical-thinking.gif" alt="drawing" width="100"/></div>
     </div>
   </div>
   <button class="add-btn" onclick="addToEnd('q2', this)">ДЛЯ ПОВТОРЕНИЯ</button>

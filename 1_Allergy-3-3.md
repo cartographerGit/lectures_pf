@@ -39,7 +39,7 @@
   <div class="flip-card">
     <div class="flip-inner" onclick="flip(this)">
       <div class="side front">
-        <b id="q2">Как переводится "Orange"?</b>
+        <b id="q2">Четыре примера аллергена, перекрёстных с латексом</b>
       </div>
       <div class="side back"><img src="./critical-thinking.gif" alt="drawing" width="100"/></div>
     </div>
